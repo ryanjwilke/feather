@@ -1,6 +1,5 @@
 ---
 title: Feather CSS
-layout: docs
 ---
 
 ## Installation
