@@ -1,0 +1,6 @@
+@import "functions"
+@import "defaults"
+@import "mixins"
+
+@each $utility-name, $utility-values in $feather-utilities
+  +utility($utility-name)
