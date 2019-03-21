@@ -3,4 +3,11 @@
 @import "mixins"
 
 @each $utility-name, $utility-values in $feather-utilities
-  +utility($utility-name)
+
+  // Print the base utilities
+  +utility($utility-name, $responsive: false)
+
+  // Print the responsive utilities
+  // @each $breakpoint, $min-width in $feather-breakpoints
+  //   @media screen and (min-width:#{$min-width})
+  //     +utility($utility-name, $responsive: true)

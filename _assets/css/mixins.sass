@@ -8,7 +8,7 @@
     $class: if($class == '', $prefix, "#{$prefix}-#{$class}")
   @return $class
 
-@mixin utility($name)
+@mixin utility($name, $responsive: false)
   $utility: map-get($feather-utilities, $name)
 
   @if $utility != false
