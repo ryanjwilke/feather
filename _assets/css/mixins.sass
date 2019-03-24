@@ -3,14 +3,14 @@
   $utility-values: map-get($utility, values)
   @return if($value, map-get($utility-values, $value), $utility-values)
 
-@function sanitize($value)
+@function sanitize-class($value)
   @if type-of($value) == number
     $value: str-replace(to-string($value), 'px', '')
     $value: str-replace(to-string($value), '%', '\\%')
   @return $value
 
 @function utility-class($class)
-  $class: sanitize($class)
+  $class: sanitize-class($class)
   @if $utility-prefix
     $class: if($class == '', $utility-prefix, "#{$utility-prefix}-#{$class}")
   @if $utility-breakpoint
@@ -58,7 +58,7 @@
             @each $variant in $v-props
               border-#{$variant}-style: $value
         @else
-          .#{utility-class($v-class)}-#{sanitize($value)}
+          .#{utility-class($v-class)}-#{sanitize-class($value)}
             @each $variant in $v-props
               #{$utility-property-name}-#{$variant}: $value
 
