@@ -3,9 +3,9 @@
 @import "mixins"
 
 // 1. Print the base utilities for all screens
-+f-utility-loop
++each-utility
 
 // 2. Print the responsive utilities
 @each $breakpoint, $min-width in $feather-breakpoints
   @media screen and (min-width:#{$min-width})
-    +f-utility-loop($breakpoint)
+    +each-utility($breakpoint)

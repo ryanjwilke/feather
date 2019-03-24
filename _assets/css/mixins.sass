@@ -10,7 +10,7 @@
     $class: #{$utility-breakpoint + '\\:' + $class}
   @return $class
 
-@mixin f-utility-loop($breakpoint: null)
+@mixin each-utility($breakpoint: null)
   $utility-breakpoint: $breakpoint !global
 
   @each $utility-property-name, $utility-options in $feather-utilities
@@ -23,9 +23,9 @@
     $utility-is-responsive: map-get($utility-options, responsive) !global
 
     @if $utility-breakpoint == null or ($utility-breakpoint != null and $utility-is-responsive)
-      +f-utility-class
+      +utility
 
-@mixin f-utility-class
+@mixin utility
   @each $class, $value in $utility-values
     $value: if($value, $value, $class)
 
@@ -55,7 +55,7 @@
             @each $variant in $v-props
               #{$utility-property-name}-#{$variant}: $value
 
-@mixin utility($name, $responsive: false)
+@mixin legacy-utility($name, $responsive: false)
   $utility: map-get($feather-utilities, $name)
 
   @if $utility != false
