@@ -10,6 +10,12 @@
     $class: #{$utility-breakpoint + '\\:' + $class}
   @return $class
 
+@function utility-value($value)
+  @if type-of($value) == number and unitless($value)
+    @return $value + 0px
+  @else
+    @return $value
+
 @mixin each-utility($breakpoint: null)
   $utility-breakpoint: $breakpoint !global
 
@@ -31,7 +37,7 @@
 
     // 1. Print the base styles
     .#{utility-class($class)}
-      #{$utility-property-name}: $value
+      #{$utility-property-name}: utility-value($value)
 
     // 2. Print the utility states
     @if $utility-states and $utility-is-responsive == false and $utility-breakpoint == null
@@ -49,11 +55,11 @@
         @if $utility-property-name == border-style
           .#{utility-class($v-class + '-' + $class)}
             @each $variant in $v-props
-              border-#{$variant}-style: $value
+              border-#{$variant}-style: utility-value($value)
         @else
           .#{utility-class($v-class)}
             @each $variant in $v-props
-              #{$utility-property-name}-#{$variant}: $value
+              #{$utility-property-name}-#{$variant}: utility-value($value)
 
 @mixin legacy-utility($name, $responsive: false)
   $utility: map-get($feather-utilities, $name)

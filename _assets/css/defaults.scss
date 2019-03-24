@@ -49,31 +49,10 @@ $feather-defaults: (
     values: (infinite)
   ),
 
-  color: (
-    prefix: null,
-    responsive: true,
-    states: (hover, group-hover),
-    values: (
-      'black': '#000'
-    )
-  ),
-
-  fill: (
-    prefix: 'fill',
+  background: (
+    prefix: 'bg',
     responsive: false,
-    values: ('': currentColor)
-  ),
-
-  stroke: (
-    prefix: 'stroke',
-    responsive: false,
-    values: ('': currentColor)
-  ),
-
-  border-color: (
-    prefix: 'border',
-    responsive: false,
-    values: ('color': currentColor)
+    values: ('none': none)
   ),
 
   background-color: (
@@ -85,9 +64,13 @@ $feather-defaults: (
   background-image: (
     prefix: 'bg',
     responsive: true,
-    values: (
-      'none': none
-    )
+    values: ('none': none)
+  ),
+
+  border-color: (
+    prefix: 'border',
+    responsive: false,
+    values: ('color': currentColor)
   ),
 
   border-style: (
@@ -128,6 +111,21 @@ $feather-defaults: (
       'active': 0 0 4px 1px rgba(#000, .5),
       'none': none
     )
+  ),
+
+  color: (
+    prefix: null,
+    responsive: true,
+    states: (hover, group-hover),
+    values: (
+      'black': '#000'
+    )
+  ),
+
+  fill: (
+    prefix: 'fill',
+    responsive: false,
+    values: ('': currentColor)
   ),
 
   filter: (
@@ -197,20 +195,20 @@ $feather-defaults: (
     prefix: 'm',
     responsive: true,
     variants: (t: top, b: bottom, l: left, r: right),
-    values: ()
+    values: (2, 4, 8, 16, 24, 32, 40)
   ),
 
   padding: (
     prefix: 'p',
     responsive: true,
     variants: (t: top, b: bottom, l: left, r: right),
-    values: ()
+    values: (2, 4, 8, 16, 24, 32, 40)
   ),
 
   max-height: (
     prefix: 'max-h',
     responsive: false,
-    values: (none)
+    values: ('none': none)
   ),
 
   max-width: (
@@ -254,7 +252,7 @@ $feather-defaults: (
     prefix: 'font',
     responsive: false,
     values: (
-      'default': sans-serif,
+      'default': (-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif),
       'monospace': monospace
     )
   ),
@@ -284,12 +282,13 @@ $feather-defaults: (
     prefix: null,
     responsive: true,
     values: (
-      normal: 300,
-      italic: 400,
+      lighter: 200,
+      light: 300,
+      normal: 400,
       medium: 500,
-      medium-italic: 600,
+      semibold: 600,
       bold: 700,
-      bold-italic: 800
+      bolder: 800
     )
   ),
 
@@ -540,6 +539,12 @@ $feather-defaults: (
     prefix: 'flex',
     responsive: false,
     values: (wrap, nowrap)
+  ),
+
+  stroke: (
+    prefix: 'stroke',
+    responsive: false,
+    values: ('': currentColor)
   ),
 
   visibility: (
