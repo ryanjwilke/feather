@@ -47,7 +47,7 @@
     @if $utility-variants
       @each $v-class, $v-props in $utility-variants
         @if $utility-property-name == border-style
-          .#{utility-class('-' + $v-class)}
+          .#{utility-class($v-class + '-' + $class)}
             @each $variant in $v-props
               border-#{$variant}-style: $value
         @else
