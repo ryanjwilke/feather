@@ -4,6 +4,8 @@
   @return if($value, map-get($utility-values, $value), $utility-values)
 
 @function utility-class($class)
+  @if type-of($class) == number
+    $class: str-replace(to-string($class), '%', '\\%')
   @if $utility-prefix
     $class: if($class == '', $utility-prefix, "#{$utility-prefix}-#{$class}")
   @if $utility-breakpoint
@@ -53,11 +55,11 @@
     @if $utility-variants
       @each $v-class, $v-props in $utility-variants
         @if $utility-property-name == border-style
-          .#{utility-class($v-class + '-' + $class)}
+          .#{utility-class(($v-class + '-' + $class))}
             @each $variant in $v-props
               border-#{$variant}-style: utility-value($value)
         @else
-          .#{utility-class($v-class)}
+          .#{utility-class(($v-class + '-' + $value))}
             @each $variant in $v-props
               #{$utility-property-name}-#{$variant}: utility-value($value)
 

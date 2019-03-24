@@ -208,31 +208,25 @@ $feather-defaults: (
   max-height: (
     prefix: 'max-h',
     responsive: false,
-    values: ('none': none)
+    values: (none)
   ),
 
   max-width: (
     prefix: 'max-w',
     responsive: true,
-    values: (
-      'none': none,
-      '320': 320px,
-      '400': 400px,
-      '600': 600px,
-      '1440': 1440px
-    )
+    values: (none, 320, 400, 600, 1440)
   ),
 
   min-height: (
     prefix: 'min-h',
     responsive: true,
-    values: ('none': none, '100\\%': 100%)
+    values: (none, 100%)
   ),
 
   min-width: (
     prefix: 'min-w',
     responsive: true,
-    values: ('none': none, '100\\%': 100%)
+    values: (none, 100%)
   ),
 
   display: (
