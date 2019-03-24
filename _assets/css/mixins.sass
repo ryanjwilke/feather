@@ -3,10 +3,57 @@
   $utility-values: map-get($utility, values)
   @return if($value, map-get($utility-values, $value), $utility-values)
 
-@function utility-class($prefix, $class)
-  @if $prefix
-    $class: if($class == '', $prefix, "#{$prefix}-#{$class}")
+@function utility-class($class)
+  @if $utility-prefix
+    $class: if($class == '', $utility-prefix, "#{$utility-prefix}-#{$class}")
+  @if $utility-breakpoint
+    $class: #{$utility-breakpoint + '\\:' + $class}
   @return $class
+
+@mixin f-utility-loop($breakpoint: null)
+  $utility-breakpoint: $breakpoint !global
+
+  @each $utility-property-name, $utility-options in $feather-utilities
+    $utility-property-name: $utility-property-name !global
+    $utility-options: $utility-options !global
+    $utility-states: map-get($utility-options, states) !global
+    $utility-prefix: map-get($utility-options, prefix) !global
+    $utility-values: map-get($utility-options, values) !global
+    $utility-variants: map-get($utility-options, variants) !global
+    $utility-is-responsive: map-get($utility-options, responsive) !global
+
+    @if $utility-breakpoint == null or ($utility-breakpoint != null and $utility-is-responsive)
+      +f-utility-class
+
+@mixin f-utility-class
+  @each $class, $value in $utility-values
+    $value: if($value, $value, $class)
+
+    // 1. Print the base styles
+    .#{utility-class($class)}
+      #{$utility-property-name}: $value
+
+    // 2. Print the utility states
+    @if $utility-states and $utility-is-responsive == false and $utility-breakpoint == null
+      @each $state in $utility-states
+        @if $state == group-hover
+          .group:hover .#{$state + '\\:' + utility-class($class)}
+            @extend .#{utility-class($class)}
+        @else
+          .#{$state + '\\:' + utility-class($class) + ':' + $state}
+            @extend .#{utility-class($class)}
+
+    // 3. Print the utility variants
+    @if $utility-variants
+      @each $v-class, $v-props in $utility-variants
+        @if $utility-property-name == border-style
+          .#{utility-class('-' + $v-class)}
+            @each $variant in $v-props
+              border-#{$variant}-style: $value
+        @else
+          .#{utility-class($v-class)}
+            @each $variant in $v-props
+              #{$utility-property-name}-#{$variant}: $value
 
 @mixin utility($name, $responsive: false)
   $utility: map-get($feather-utilities, $name)
