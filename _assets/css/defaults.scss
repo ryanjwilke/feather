@@ -139,10 +139,10 @@ $feather-defaults: (
     )
   ),
 
-  grid: (
-    prefix: 'col',
+  grid-column-gap: (
+    prefix: 'column-gap',
     responsive: true,
-    values: (0, 5, 10, 15, 20, 25, 30, 33, 35, 40, 45, 50, 55, 60, 65, 66, 70, 75, 80, 85, 90, 95, 100)
+    values: (0, 8, 12, 16, 24, 32)
   ),
 
   grid-row-gap: (
@@ -151,10 +151,27 @@ $feather-defaults: (
     values: (0, 8, 12, 16, 24, 32)
   ),
 
-  grid-column-gap: (
-    prefix: 'column-gap',
+  grid-template-rows: (
+    prefix: 'grid-rows',
     responsive: true,
-    values: (0, 8, 12, 16, 24, 32)
+    values: (initial)
+  ),
+
+  grid-template-columns: (
+    prefix: 'columns',
+    responsive: true,
+    values: (
+      'auto-1fr': auto 1fr,
+      '1fr-auto': 1fr auto,
+      '1fr': 1fr,
+      '1fr-x2': 1fr 1fr,
+      '1fr-x3': 1fr 1fr 1fr,
+      '1fr-x4': 1fr 1fr 1fr 1fr,
+      'auto': auto,
+      'auto-x2': auto auto,
+      'auto-x3': auto auto auto,
+      'auto-x4': auto auto auto auto
+    )
   ),
 
   line-height: (
