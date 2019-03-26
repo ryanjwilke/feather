@@ -364,19 +364,8 @@ $feather-defaults: (
   overflow: (
     prefix: 'overflow',
     responsive: true,
-    values: (auto, hidden, visible)
-  ),
-
-  overflow-x: (
-    prefix: 'overflow-x',
-    responsive: true,
-    values: (scroll: auto)
-  ),
-
-  overflow-y: (
-    prefix: 'overflow-y',
-    responsive: true,
-    values: (scroll: auto)
+    values: (auto, hidden, visible),
+    variants: (x: 'x', y: 'y')
   ),
 
   border-radius: (
@@ -390,6 +379,44 @@ $feather-defaults: (
       '4': 4px,
       '5': 5px,
       'pill': 1000px
+    ),
+    properties: (
+      'top': (
+        border-bottom-left-radius: 0,
+        border-bottom-right-radius: 0
+      ),
+      'bottom': (
+        border-top-left-radius: 0,
+        border-top-right-radius: 0
+      ),
+      'left': (
+        border-top-right-radius: 0,
+        border-bottom-right-radius: 0
+      ),
+      'right': (
+        border-top-left-radius: 0,
+        border-bottom-left-radius: 0
+      ),
+      'top-left': (
+        border-top-right-radius: 0,
+        border-bottom-left-radius: 0,
+        border-bottom-right-radius: 0
+      ),
+      'top-right': (
+        border-top-left-radius: 0,
+        border-bottom-left-radius: 0,
+        border-bottom-right-radius: 0
+      ),
+      'bottom-left': (
+        border-top-left-radius: 0,
+        border-top-right-radius: 0,
+        border-bottom-right-radius: 0
+      ),
+      'bottom-right': (
+        border-top-left-radius: 0,
+        border-top-right-radius: 0,
+        border-bottom-left-radius: 0
+      )
     )
   ),
 

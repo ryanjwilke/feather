@@ -27,6 +27,7 @@
     $utility-prefix: map-get($utility-options, prefix) !global
     $utility-values: map-get($utility-options, values) !global
     $utility-variants: map-get($utility-options, variants) !global
+    $utility-properties: map-get($utility-options, properties) !global
     $utility-is-responsive: map-get($utility-options, responsive) !global
 
     @if $utility-breakpoint == null or ($utility-breakpoint != null and $utility-is-responsive)
@@ -61,6 +62,13 @@
           .#{utility-class($v-class)}-#{sanitize-class($value)}
             @each $variant in $v-props
               #{$utility-property-name}-#{$variant}: $value
+
+  // 4. Print the other utility properties
+  @if $utility-properties
+    @each $class, $properties in $utility-properties
+      .#{$utility-prefix}-#{$class}
+        @each $property, $value in $properties
+          #{$property}: #{$value}
 
 @mixin legacy-utility($name, $responsive: false)
   $utility: map-get($feather-utilities, $name)
