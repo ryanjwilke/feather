@@ -247,26 +247,26 @@ $feather-defaults: (
 
   max-height: (
     prefix: 'max-h',
-    responsive: false,
-    values: (none)
+    responsive: true,
+    values: (0, 100%)
   ),
 
   max-width: (
     prefix: 'max-w',
     responsive: true,
-    values: (none, 320px, 400px, 600px, 1440px)
+    values: (0, 100%)
   ),
 
   min-height: (
     prefix: 'min-h',
     responsive: true,
-    values: (none, 100%)
+    values: (0, 100%)
   ),
 
   min-width: (
     prefix: 'min-w',
     responsive: true,
-    values: (none, 100%)
+    values: (0, 100%)
   ),
 
   display: (
@@ -505,7 +505,10 @@ $feather-defaults: (
       '0ms': none,
       '150ms': all 150ms ease,
       '300ms': all 300ms ease,
-      '600ms': all 600ms ease
+      '600ms': all 600ms ease,
+      'out-150ms': all 150ms ease-out,
+      'out-300ms': all 300ms ease-out,
+      'out-600ms': all 600ms ease-out
     )
   ),
 
