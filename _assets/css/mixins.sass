@@ -11,7 +11,7 @@
     $utility-properties: map-get($utility-options, properties) !global
     $utility-is-responsive: map-get($utility-options, responsive) !global
 
-    @if $utility-breakpoint == null or ($utility-breakpoint != null and $utility-is-responsive)
+    @if $breakpoint == null or ($breakpoint != null and $utility-is-responsive)
       @each $class, $value in $utility-values
         $value: if($value, $value, $class)
 
@@ -20,7 +20,7 @@
           #{$utility-property-name}: $value
 
         // 2. Print the utility states
-        @if $utility-states and $utility-is-responsive == false and $utility-breakpoint == null
+        @if $utility-states and $utility-is-responsive == false and $breakpoint == null
           @each $state in $utility-states
             @if $state == group-hover
               .group:hover .#{$state + '\\:' + utility-class($class)}
