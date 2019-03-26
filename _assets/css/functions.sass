@@ -19,3 +19,17 @@
     @return str-slice($string, 1, $index - 1) + $replace + str-replace(str-slice($string, $index + str-length($search)), $search, $replace)
 
   @return $string
+
+@function sanitize-class($value)
+  @if type-of($value) == number
+    $value: str-replace(to-string($value), 'px', '')
+    $value: str-replace(to-string($value), '%', '\\%')
+  @return $value
+
+@function utility-class($class)
+  $class: sanitize-class($class)
+  @if $utility-prefix
+    $class: if($class == '', $utility-prefix, "#{$utility-prefix}-#{$class}")
+  @if $utility-breakpoint
+    $class: #{$utility-breakpoint + '\\:' + $class}
+  @return $class

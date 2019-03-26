@@ -1,22 +1,3 @@
-@function utility-values($name, $value: null)
-  $utility: map-get($feather-utilities, $name)
-  $utility-values: map-get($utility, values)
-  @return if($value, map-get($utility-values, $value), $utility-values)
-
-@function sanitize-class($value)
-  @if type-of($value) == number
-    $value: str-replace(to-string($value), 'px', '')
-    $value: str-replace(to-string($value), '%', '\\%')
-  @return $value
-
-@function utility-class($class)
-  $class: sanitize-class($class)
-  @if $utility-prefix
-    $class: if($class == '', $utility-prefix, "#{$utility-prefix}-#{$class}")
-  @if $utility-breakpoint
-    $class: #{$utility-breakpoint + '\\:' + $class}
-  @return $class
-
 @mixin each-utility($breakpoint: null)
   $utility-breakpoint: $breakpoint !global
 
@@ -31,124 +12,38 @@
     $utility-is-responsive: map-get($utility-options, responsive) !global
 
     @if $utility-breakpoint == null or ($utility-breakpoint != null and $utility-is-responsive)
-      +utility
-
-@mixin utility
-  @each $class, $value in $utility-values
-    $value: if($value, $value, $class)
-
-    // 1. Print the base styles
-    .#{utility-class($class)}
-      #{$utility-property-name}: $value
-
-    // 2. Print the utility states
-    @if $utility-states and $utility-is-responsive == false and $utility-breakpoint == null
-      @each $state in $utility-states
-        @if $state == group-hover
-          .group:hover .#{$state + '\\:' + utility-class($class)}
-            @extend .#{utility-class($class)}
-        @else
-          .#{$state + '\\:' + utility-class($class) + ':' + $state}
-            @extend .#{utility-class($class)}
-
-    // 3. Print the utility variants
-    @if $utility-variants
-      @each $v-class, $v-props in $utility-variants
-        @if $utility-property-name == border-style
-          .#{utility-class(($v-class + '-' + $class))}
-            @each $variant in $v-props
-              border-#{$variant}-style: $value
-        @else
-          .#{utility-class($v-class)}-#{sanitize-class($value)}
-            @each $variant in $v-props
-              #{$utility-property-name}-#{$variant}: $value
-
-  // 4. Print the other utility properties
-  @if $utility-properties
-    @each $class, $properties in $utility-properties
-      .#{$utility-prefix}-#{$class}
-        @each $property, $value in $properties
-          #{$property}: #{$value}
-
-@mixin legacy-utility($name, $responsive: false)
-  $utility: map-get($feather-utilities, $name)
-
-  @if $utility != false
-    $prefix: map-get($utility, prefix)
-    $utility-values: map-get($utility, values)
-    $utility-states: map-get($utility, states)
-    $utility-variants: map-get($utility, variants)
-    $utility-is-responsive: map-get($utility, responsive)
-
-    // Print out styles for all screens
-    @each $class, $value in $utility-values
-      $value: if($value, $value, $class)
-      .#{utility-class($prefix, $class)}
-        #{$name}: $value
-
-      // Print out the utility states for all screens (e.g. hover, focus, last-child, group-hover, etc)
-      @if $utility-states
-        @each $state in $utility-states
-          @if $state == group-hover
-            .group:hover .#{$state + '\\:' + utility-class($prefix, $class)}
-              @extend .#{utility-class($prefix, $class)}
-          @else
-            .#{$state + '\\:' + utility-class($prefix, $class) + ':' + $state}
-              @extend .#{utility-class($prefix, $class)}
-
-    // Print out variants like: left, right, top, bottom
-    @if $utility-variants
       @each $class, $value in $utility-values
         $value: if($value, $value, $class)
-        @each $v-class, $v-props in $utility-variants
-          @if $name == border-style
-            .#{utility-class($prefix + '-' + $v-class, $class)}
-              @each $variant in $v-props
-                border-#{$variant}-style: $value
-          @else
-            .#{utility-class($prefix + $v-class, $class)}
-              @each $variant in $v-props
-                #{$name}-#{$variant}: $value
 
-    // Print out other utility content
-    @if $prefix
-      .#{$prefix}
-        @content
+        // 1. Print the base styles
+        .#{utility-class($class)}
+          #{$utility-property-name}: $value
 
-    // Print out styles for all breakpoints
-    @if $utility-is-responsive
-      @each $breakpoint, $min-width in $feather-breakpoints
-        @media screen and (min-width:#{$min-width})
-          @each $class, $value in $utility-values
-            $value: if($value, $value, $class)
-            .#{$breakpoint + '\\:' + utility-class($prefix, $class)}
-              #{$name}: $value
+        // 2. Print the utility states
+        @if $utility-states and $utility-is-responsive == false and $utility-breakpoint == null
+          @each $state in $utility-states
+            @if $state == group-hover
+              .group:hover .#{$state + '\\:' + utility-class($class)}
+                @extend .#{utility-class($class)}
+            @else
+              .#{$state + '\\:' + utility-class($class) + ':' + $state}
+                @extend .#{utility-class($class)}
 
-            // Print out the utility states for all breakpoints (e.g. hover, focus, last-child, group-hover, etc)
-            @if $utility-states
-              @each $state in $utility-states
-                @if $state == group-hover
-                  .group:hover .#{$breakpoint + '\\:' + $state + '\\:' + utility-class($prefix, $class)}
-                    @extend .#{$breakpoint + '\\:' + utility-class($prefix, $class)}
-                @else
-                  .#{$breakpoint + '\\:' + $state + '\\:' + utility-class($prefix, $class) + ':' + $state}
-                    @extend .#{$breakpoint + '\\:' + utility-class($prefix, $class)}
+        // 3. Print the utility variants
+        @if $utility-variants
+          @each $v-class, $v-props in $utility-variants
+            @if $utility-property-name == border-style
+              .#{utility-class(($v-class + '-' + $class))}
+                @each $variant in $v-props
+                  border-#{$variant}-style: $value
+            @else
+              .#{utility-class($v-class)}-#{sanitize-class($value)}
+                @each $variant in $v-props
+                  #{$utility-property-name}-#{$variant}: $value
 
-          // Print out variants like: left, right, top, bottom
-          @if $utility-variants
-            @each $class, $value in $utility-values
-              $value: if($value, $value, $class)
-              @each $v-class, $v-props in $utility-variants
-                @if $name == border-style
-                  .#{$breakpoint + '\\:' + utility-class($prefix + '-' + $v-class, $class)}
-                    @each $variant in $v-props
-                      border-#{$variant}-style: $value
-                @else
-                  .#{$breakpoint + '\\:' + utility-class($prefix + $v-class, $class)}
-                    @each $variant in $v-props
-                      #{$name}-#{$variant}: $value
-
-          // Print out other utility content
-          @if $prefix
-            .#{$breakpoint + '\\:' + $prefix}
-              @content
+      // 4. Print the other utility properties
+      @if $utility-properties
+        @each $class, $properties in $utility-properties
+          .#{$utility-prefix}-#{$class}
+            @each $property, $value in $properties
+              #{$property}: #{$value}
