@@ -3,7 +3,18 @@ $feather-breakpoints: (
   md: 768px,
   lg: 992px,
   xl: 1200px
-);
+) !default;
+
+$feather-position-values: (
+  '': 0,
+  '2': 2px,
+  '4': 4px,
+  '8': 8px,
+  '16': 16px,
+  '24': 24px,
+  '32': 32px,
+  '40': 40px
+) !default;
 
 $feather-defaults: (
 
@@ -460,25 +471,25 @@ $feather-defaults: (
   top: (
     prefix: 'pin-t',
     responsive: true,
-    values: ()
+    values: $feather-position-values
   ),
 
   left: (
     prefix: 'pin-l',
     responsive: true,
-    values: ()
+    values: $feather-position-values
   ),
 
   right: (
     prefix: 'pin-r',
     responsive: true,
-    values: ()
+    values: $feather-position-values
   ),
 
   bottom: (
     prefix: 'pin-b',
     responsive: true,
-    values: ()
+    values: $feather-position-values
   ),
 
   text-overflow: (
