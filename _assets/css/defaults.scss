@@ -206,16 +206,22 @@ $feather-defaults: (
     )
   ),
 
+  list-style: (
+    prefix: 'list-style',
+    responsive: false,
+    values: (none, square, circle, disc)
+  ),
+
   height: (
     prefix: 'h',
     responsive: true,
-    values: ()
+    values: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px, 48px, 56px, 64px, 72px, 80px, 88px, 96px)
   ),
 
   width: (
     prefix: 'w',
     responsive: true,
-    values: ()
+    values: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px, 48px, 56px, 64px, 72px, 80px, 88px, 96px)
   ),
 
   cursor: (
@@ -224,24 +230,18 @@ $feather-defaults: (
     values: (auto, pointer, default, ew-resize)
   ),
 
-  center: (
-    prefix: 'center',
-    responsive: true,
-    values: ()
-  ),
-
   margin: (
     prefix: 'm',
     responsive: true,
     variants: (t: top, b: bottom, l: left, r: right),
-    values: (2px, 4px, 8px, 16px, 24px, 32px, 40px)
+    values: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px)
   ),
 
   padding: (
     prefix: 'p',
     responsive: true,
     variants: (t: top, b: bottom, l: left, r: right),
-    values: (2px, 4px, 8px, 16px, 24px, 32px, 40px)
+    values: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px)
   ),
 
   max-height: (
