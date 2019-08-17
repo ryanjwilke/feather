@@ -1,0 +1,6 @@
+.ruby-version
+Gemfile*
+ _layouts/
+ index.md
+ .github/
+ _config.yml
