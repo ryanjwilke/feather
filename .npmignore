@@ -1,6 +1,10 @@
+.DS_Store
 .ruby-version
+.sass-cache
+.jekyll-cache
+.github
+_layouts/
+_site/
+_config.yml
+index.md
 Gemfile*
- _layouts/
- index.md
- .github/
- _config.yml
