@@ -20,7 +20,7 @@
           #{$utility-property-name}: $value
 
         // 2. Print the utility states
-        @if $utility-states and $utility-is-responsive == false and $breakpoint == null
+        @if $utility-states
           @each $state in $utility-states
             @if $state == group-hover
               .group:hover .#{$state + '\\:' + utility-class($class)}
