@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       NPM_USERNAME: ${{ secrets.NPM_USERNAME }}
-      NPM_PASSWORD: ${{ secrets.NPM_PASSWORD }}
+      NPM_PASSWORD: ${{ secrets.NPM_AUTH_TOKEN }}
       NPM_EMAIL: ${{ secrets.NPM_EMAIL }}
     steps:
       - uses: actions/checkout@v1
