@@ -1,7 +1,0 @@
-node:
-  build: .
-  command: yarn vue:serve
-  ports:
-    - 8080:8080
-  volumes:
-    - $PWD:/srv/
