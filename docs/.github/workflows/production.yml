@@ -1,0 +1,38 @@
+name: Production
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  ci:
+    name: CI Tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-node@v1.2.0
+        with:
+          node-version: 11.x
+      - uses: actions/cache@v1.0.1
+        id: cache
+        with:
+          path: node_modules
+          key: node-${{ hashFiles('**/yarn.lock') }}
+      - run: npm install yarn -g
+      - run: yarn install
+        if: steps.cache.outputs.cache-hit != 'true'
+      - run: yarn build
+      - run: yarn prettier:check
+      - run: yarn test:lint
+      - run: yarn test:vue
+      - run: yarn test:html
+      - run: yarn test:unit:ci
+      - run: yarn test:unit:coverage
+      - run: yarn test:e2e:ci
+      - run: yarn test:e2e:percy
+        env:
+          PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
+          PERCY_BRANCH: master
