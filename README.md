@@ -32,5 +32,6 @@ git merge -s subtree --squash template/master
 git merge -X subtree=docs --squash template/master
 
 # Option C
+git subtree add --prefix=docs --squash template master
 git subtree pull --prefix=docs --squash template master
 ```
