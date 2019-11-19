@@ -13,7 +13,7 @@ yarn add @ryanwilke/feather-css
 
 ## Publishing a new version
 ```
-yarn publish
+yarn npm:publish
 ```
 
 ## Documentation
