@@ -19,7 +19,7 @@ yarn npm:publish
 ## Documentation
 The docs based in Vue CLI and are using a [git subtree](https://medium.com/@porteneuve/mastering-git-subtrees-943d29a798ec) module in order to make use of the [Vue CLI Template](https://github.com/ryanjwilke/vue-cli-template).
 
-### Pulling Updates to the Subtree
+#### Pulling Updates to the Subtree
 You can use the following commands to pull updates to the subtree as long as template has been registered as a remote.
 ```
 # Refresh the remote.
