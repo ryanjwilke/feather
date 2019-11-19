@@ -1,21 +1,36 @@
 {
   "name": "@ryanwilke/feather-css",
-  "version": "1.1.5",
+  "version": "2.0.6",
   "license": "MIT",
-  "main": "_assets/css/feather.sass",
-  "scripts": {
-    "build": "webpack --mode=development",
-    "build:dist": "webpack --mode=production"
-  },
+  "main": "src/assets/feather.sass",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "ui",
+    "css",
+    "sass",
+    "styles",
+    "design",
+    "framework",
+    "library"
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanwilke/feather-css.git"
+    "url": "git+https://github.com/ryanjwilke/feather-css.git"
   },
   "bugs": {
-    "url": "https://github.com/ryanwilke/feather-css/issues"
+    "url": "https://github.com/ryanjwilke/feather-css/issues"
   },
   "devDependencies": {
-    "css-loader": "^3.2.0",
     "node-sass": "^4.9.3"
+  },
+  "scripts": {
+    "build": "yarn build:folders && yarn build:css && yarn build:sass",
+    "build:css": "yarn sass --output-style compressed src/feather.sass > dist/css/feather.css",
+    "build:sass": "cp -R src dist/sass",
+    "build:folders": "mkdir -p dist && mkdir -p dist/css",
+    "npm:publish": "yarn build && npm publish",
+    "sass": "node_modules/.bin/node-sass"
   }
 }
