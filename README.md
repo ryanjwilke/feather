@@ -14,7 +14,7 @@ yarn add @ryanwilke/feather-css
 
 
 ## Publishing a new version
-Publishing is handled automatically by the [Publish workflow] in GitHub Actions, but if you need to publish manually you can use the following command. Please note that you need to bump the version number in the `package.json` file before publishing a new version.
+Publishing is handled automatically by the [Publish workflow](https://github.com/ryanjwilke/feather/actions?query=workflow%3APublish) in GitHub Actions, but if you need to publish manually you can use the following command. Please note that you need to bump the version number in the `package.json` file before publishing a new version.
 ```
 yarn npm:publish
 ```
