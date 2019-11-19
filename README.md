@@ -30,4 +30,7 @@ git merge -s subtree --squash template/master
 
 # Option B: The backup way to merge in new changes if the subtree heuristics lose their marbles.
 git merge -X subtree=docs --squash template/master
+
+# Option C
+git subtree pull --prefix=docs --squash template master
 ```
