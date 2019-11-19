@@ -1,10 +1,10 @@
 {
   "name": "@ryanwilke/feather-css",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "license": "MIT",
   "main": "src/assets/feather.sass",
   "files": [
-    "src/assets/*.sass"
+    "dist"
   ],
   "keywords": [
     "ui",
@@ -24,5 +24,13 @@
   },
   "devDependencies": {
     "node-sass": "^4.9.3"
+  },
+  "scripts": {
+    "build": "yarn build:folders && yarn build:css && yarn build:sass",
+    "build:css": "yarn sass --output-style compressed src/feather.sass > dist/css/feather.css",
+    "build:sass": "cp -R src dist/sass",
+    "build:folders": "mkdir -p dist && mkdir -p dist/css",
+    "publish": "yarn build && npm publish",
+    "sass": "node_modules/.bin/node-sass"
   }
 }
