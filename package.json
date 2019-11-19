@@ -1,8 +1,9 @@
 {
   "name": "@ryanwilke/feather-css",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "license": "MIT",
-  "main": "src/assets/feather.sass",
+  "publishConfig": { "registry": "https://registry.npmjs.org/" },
+  "main": "dist/sass/feather.sass",
   "files": [
     "dist"
   ],
