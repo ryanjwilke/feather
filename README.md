@@ -1,5 +1,10 @@
 # Feather CSS
-An incredibly lightweight, atomic CSS framework.
+An incredibly lightweight, atomic CSS framework that's based entirely in Sass.
+
+## Status
+
+[![Publish Workflow Status](https://github.com/ryanjwilke/feather/workflows/Publish/badge.svg)](https://github.com/ryanjwilke/feather/actions)
+[![Template Status](https://github.com/ryanjwilke/vue-cli-template/workflows/Production/badge.svg)](https://github.com/ryanjwilke/vue-cli-template/actions)
 
 ## Installation
 ```
