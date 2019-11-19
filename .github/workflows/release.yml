@@ -1,9 +1,8 @@
-name: Publish
+name: Release
 
 on:
-  push:
-    branches:
-      - master
+  release:
+    types: [published]
 
 jobs:
   publish:
@@ -20,14 +19,6 @@ jobs:
       - uses: actions/setup-node@v1.2.0
         with:
           node-version: 11.x
-      - uses: actions/cache@v1.0.1
-        id: cache
-        with:
-          path: dist
-          key: package-${{ hashFiles('**/package.json') }}
       - run: npm install yarn -g
-        if: steps.cache.outputs.cache-hit != 'true'
       - run: yarn install
-        if: steps.cache.outputs.cache-hit != 'true'
       - run: yarn npm:publish
-        if: steps.cache.outputs.cache-hit != 'true'
