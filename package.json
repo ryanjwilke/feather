@@ -1,12 +1,20 @@
 {
   "name": "@ryanwilke/feather-css",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "license": "MIT",
-  "main": "_assets/css/feather.sass",
-  "scripts": {
-    "build": "webpack --mode=development",
-    "build:dist": "webpack --mode=production"
-  },
+  "main": "src/assets/feather.sass",
+  "files": [
+    "src/assets/*.sass"
+  ],
+  "keywords": [
+    "ui",
+    "css",
+    "sass",
+    "styles",
+    "design",
+    "framework",
+    "library"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ryanwilke/feather-css.git"
@@ -15,7 +23,6 @@
     "url": "https://github.com/ryanwilke/feather-css/issues"
   },
   "devDependencies": {
-    "css-loader": "^3.2.0",
     "node-sass": "^4.9.3"
   }
 }

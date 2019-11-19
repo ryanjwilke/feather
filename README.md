@@ -1,7 +1,7 @@
-# feather
+# Feather CSS
 An incredibly lightweight, atomic CSS framework.
 
 ## Installation
 ```
-yarn add @ryanwilke/feather-css --save-dev
+yarn add @ryanwilke/feather-css
 ```
