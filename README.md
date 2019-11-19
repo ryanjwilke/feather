@@ -5,3 +5,8 @@ An incredibly lightweight, atomic CSS framework.
 ```
 yarn add @ryanwilke/feather-css
 ```
+
+## Publishing a new version
+```
+yarn publish
+```
