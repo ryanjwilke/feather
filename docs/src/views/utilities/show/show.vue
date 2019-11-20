@@ -5,7 +5,7 @@
     <div :class="css.code.container">
       <div :class="css.code.text">
         <template v-for="value in utility.values">
-          .{{ utility.prefix }}-{{ value.name }} { {{ utility.name }}: {{ value.name }} }
+          .{{ utility.prefix }}-{{ value.name }} { {{ utility.name }}: {{ value.value || value.name }} }
         </template>
       </div>
     </div>

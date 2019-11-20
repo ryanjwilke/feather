@@ -6,3 +6,7 @@
     - name: none
 
 - name: background-color
+  prefix: bg
+  values:
+    - name: color
+      value: currentColor
