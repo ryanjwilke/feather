@@ -8,6 +8,10 @@ jobs:
   ci:
     name: CI Tests
     runs-on: ubuntu-latest
+    env:
+      NPM_USERNAME: ${{ secrets.NPM_USERNAME }}
+      NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
+      NPM_EMAIL: ${{ secrets.NPM_EMAIL }}
     steps:
       - uses: actions/checkout@v1
         with:
