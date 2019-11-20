@@ -1,8 +1,8 @@
 import { shallowMount } from '@vue/test-utils'
-import About from '@/views/About.vue'
+import UtilitiesIndex from '@/views/utilities/index/index.vue'
 
-describe('About', () => {
-  const wrapper = shallowMount(About)
+describe('UtilitiesIndex', () => {
+  const wrapper = shallowMount(UtilitiesIndex)
 
   it('is a Vue instance', () => {
     expect(wrapper.isVueInstance()).toBeTruthy()
