@@ -16,6 +16,144 @@ $feather-position-values: (
   '40': 40px
 ) !default;
 
+$feather-colors: (
+  'transparent': transparent,
+
+  // Black
+  'black': #000,
+  'black-900': rgba(#000,.9),
+  'black-800': rgba(#000,.8),
+  'black-700': rgba(#000,.7),
+  'black-600': rgba(#000,.6),
+  'black-500': rgba(#000,.5),
+  'black-400': rgba(#000,.4),
+  'black-300': rgba(#000,.3),
+  'black-200': rgba(#000,.2),
+  'black-100': rgba(#000,.1),
+
+  // White
+  'white': #fff,
+  'white-900': rgba(#fff,.9),
+  'white-800': rgba(#fff,.8),
+  'white-700': rgba(#fff,.7),
+  'white-600': rgba(#fff,.6),
+  'white-500': rgba(#fff,.5),
+  'white-400': rgba(#fff,.4),
+  'white-300': rgba(#fff,.3),
+  'white-200': rgba(#fff,.2),
+  'white-100': rgba(#fff,.1),
+
+  // Gray
+  'gray-100': #f7fafc,
+  'gray-200': #edf2f7,
+  'gray-300': #e2e8f0,
+  'gray-400': #cbd5e0,
+  'gray-500': #a0aec0,
+  'gray-600': #718096,
+  'gray-700': #4a5568,
+  'gray-800': #2d3748,
+  'gray-900': #1a202c,
+
+  // Red
+  'red-100': #fff5f5,
+  'red-200': #fed7d7,
+  'red-300': #feb2b2,
+  'red-400': #fc8181,
+  'red-500': #f56565,
+  'red-600': #e53e3e,
+  'red-700': #c53030,
+  'red-800': #9b2c2c,
+  'red-900': #742a2a,
+
+  // Orange
+  'orange-100': #fffaf0,
+  'orange-200': #feebc8,
+  'orange-300': #fbd38d,
+  'orange-400': #f6ad55,
+  'orange-500': #ed8936,
+  'orange-600': #dd6b20,
+  'orange-700': #c05621,
+  'orange-800': #9c4221,
+  'orange-900': #7b341e,
+
+  // Yellow
+  'yellow-100': #fffff0,
+  'yellow-200': #fefcbf,
+  'yellow-300': #faf089,
+  'yellow-400': #f6e05e,
+  'yellow-500': #ecc94b,
+  'yellow-600': #d69e2e,
+  'yellow-700': #b7791f,
+  'yellow-800': #975a16,
+  'yellow-900': #744210,
+
+  // Green
+  'green-100': #f0fff4,
+  'green-200': #c6f6d5,
+  'green-300': #9ae6b4,
+  'green-400': #68d391,
+  'green-500': #48bb78,
+  'green-600': #38a169,
+  'green-700': #2f855a,
+  'green-800': #276749,
+  'green-900': #22543d,
+
+  // Teal
+  'teal-100': #e6fffa,
+  'teal-200': #b2f5ea,
+  'teal-300': #81e6d9,
+  'teal-400': #4fd1c5,
+  'teal-500': #38b2ac,
+  'teal-600': #319795,
+  'teal-700': #2c7a7b,
+  'teal-800': #285e61,
+  'teal-900': #234e52,
+
+  // Blue
+  'blue-100': #ebf8ff,
+  'blue-200': #bee3f8,
+  'blue-300': #90cdf4,
+  'blue-400': #63b3ed,
+  'blue-500': #4299e1,
+  'blue-600': #3182ce,
+  'blue-700': #2b6cb0,
+  'blue-800': #2c5282,
+  'blue-900': #2a4365,
+
+  // Indigo
+  'indigo-100': #ebf4ff,
+  'indigo-200': #c3dafe,
+  'indigo-300': #a3bffa,
+  'indigo-400': #7f9cf5,
+  'indigo-500': #667eea,
+  'indigo-600': #5a67d8,
+  'indigo-700': #4c51bf,
+  'indigo-800': #434190,
+  'indigo-900': #3c366b,
+
+  // Purple
+  'purple-100': #faf5ff,
+  'purple-200': #e9d8fd,
+  'purple-300': #d6bcfa,
+  'purple-400': #b794f4,
+  'purple-500': #9f7aea,
+  'purple-600': #805ad5,
+  'purple-700': #6b46c1,
+  'purple-800': #553c9a,
+  'purple-900': #44337a,
+
+  // Pink
+  'pink-100': #fff5f7,
+  'pink-200': #fed7e2,
+  'pink-300': #fbb6ce,
+  'pink-400': #f687b3,
+  'pink-500': #ed64a6,
+  'pink-600': #d53f8c,
+  'pink-700': #b83280,
+  'pink-800': #97266d,
+  'pink-900': #702459
+) !default;
+
 $feather-defaults: (
   animation-name: (
     prefix: 'animate',
@@ -57,6 +195,15 @@ $feather-defaults: (
     prefix: 'animate',
     responsive: false,
     values: (infinite)
+  ),
+
+  backdrop-filter: (
+    prefix: 'bg',
+    responsive: false,
+    values: (
+      'blur-5': blur(5px),
+      'blur-10': blur(10px),
+    )
   ),
 
   background: (
@@ -127,9 +274,7 @@ $feather-defaults: (
     prefix: null,
     responsive: true,
     states: (hover, group-hover),
-    values: (
-      'black': '#000'
-    )
+    values: $feather-colors
   ),
 
   fill: (
@@ -152,19 +297,23 @@ $feather-defaults: (
   grid-column-gap: (
     prefix: 'column-gap',
     responsive: true,
-    values: (0px, 8px, 12px, 16px, 24px, 32px)
+    values: (0px, 8px, 12px, 16px, 24px, 32px, 40px, 48px, 56px, 64px)
   ),
 
   grid-row-gap: (
     prefix: 'row-gap',
     responsive: true,
-    values: (0px, 8px, 12px, 16px, 24px, 32px)
+    values: (0px, 8px, 12px, 16px, 24px, 32px, 40px, 48px, 56px, 64px)
   ),
 
   grid-template-rows: (
     prefix: 'grid-rows',
     responsive: true,
-    values: (initial)
+    values: (
+      'auto-1fr': auto 1fr,
+      '1fr-auto': 1fr auto,
+      '1fr-1fr-auto': 1fr 1fr auto
+    )
   ),
 
   grid-template-columns: (
@@ -182,6 +331,18 @@ $feather-defaults: (
       'auto-x3': auto auto auto,
       'auto-x4': auto auto auto auto
     )
+  ),
+
+  grid-row-start: (
+    prefix: 'row-start',
+    responsive: false,
+    values: (1, 2, 3, 4)
+  ),
+
+  grid-row-end: (
+    prefix: 'row-end',
+    responsive: false,
+    values: (1, 2, 3, 4)
   ),
 
   line-height: (
@@ -202,7 +363,8 @@ $feather-defaults: (
       '44': 44px,
       '48': 48px,
       '56': 56px,
-      '64': 64px
+      '64': 64px,
+      '72': 72px
     )
   ),
 
@@ -234,14 +396,14 @@ $feather-defaults: (
     prefix: 'm',
     responsive: true,
     variants: (t: top, b: bottom, l: left, r: right),
-    values: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px)
+    values: (auto, 0, 2px, 4px, 8px, 16px, 24px, 32px, 40px, 48px, 56px, 64px, 72px)
   ),
 
   padding: (
     prefix: 'p',
     responsive: true,
     variants: (t: top, b: bottom, l: left, r: right),
-    values: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px)
+    values: (0, 2px, 4px, 8px, 12px, 16px, 24px, 32px, 40px, 48px, 56px, 64px, 72px)
   ),
 
   max-height: (
@@ -253,7 +415,7 @@ $feather-defaults: (
   max-width: (
     prefix: 'max-w',
     responsive: true,
-    values: (0, 100%)
+    values: (0, 100%, 600px, 680px, 800px, 920px, 960px)
   ),
 
   min-height: (
@@ -279,6 +441,7 @@ $feather-defaults: (
       'table': table,
       'inline': inline,
       'inline-block': inline-block,
+      'webkit-box': -webkit-box,
       'hidden': none
     )
   ),
@@ -295,16 +458,7 @@ $feather-defaults: (
   font-size: (
     prefix: 'text',
     responsive: true,
-    values: (
-      xxs: 12px,
-      xs: 13px,
-      sm: 14px,
-      md: 16px,
-      lg: 18px,
-      xl: 20px,
-      xxl: 22px,
-      xxxl: 24px
-    )
+    values: (10px, 12px, 14px, 16px, 18px, 20px, 22px, 24px, 26px, 28px, 30px, 32px, 34px, 36px, 38px, 40px)
   ),
 
   font-style: (
@@ -499,7 +653,7 @@ $feather-defaults: (
 
   transition: (
     prefix: 'ease',
-    responsive: false,
+    responsive: true,
     values: (
       '0ms': none,
       '150ms': all 150ms ease,
@@ -525,8 +679,11 @@ $feather-defaults: (
       'translatex-100\\%': translatex(100%),
       'translatey-100\\%': translatey(100%),
       'translate--50\\%': translate(-50%, -50%),
+      'translate--100\\%': translate(-100%, -100%),
       'translatex--50\\%': translatex(-50%),
+      'translatex--100\\%': translatex(-100%),
       'translatey--50\\%': translatey(-50%),
+      'translatey--100\\%': translatey(-100%),
       'rotate-45': rotate(45deg),
       'rotate-90': rotate(90deg),
       'rotate-180': rotate(180deg) translate(50%, 50%)
@@ -612,6 +769,30 @@ $feather-defaults: (
     values: ('': currentColor)
   ),
 
+  stroke-linecap: (
+    prefix: 'linecap',
+    responsive: false,
+    values: (round)
+  ),
+
+  stroke-linejoin: (
+    prefix: 'linejoin',
+    responsive: false,
+    values: (round)
+  ),
+
+  stroke-width: (
+    prefix: 'stroke',
+    responsive: false,
+    values: (0, 1px, 2px)
+  ),
+
+  text-indent: (
+    prefix: 'indent',
+    responsive: false,
+    values: (4px, 8px, 12px, 16px, 24px, 32px, 48px, 56px, 64px)
+  ),
+
   visibility: (
     prefix: null,
     responsive: false,
@@ -619,6 +800,18 @@ $feather-defaults: (
       'invisible': hidden,
       'visible': visible
     )
+  ),
+
+  '-webkit-line-clamp': (
+    prefix: 'line-clamp',
+    responsive: false,
+    values: (1, 2, 3, 4)
+  ),
+
+  '-webkit-box-orient': (
+    prefix: 'box-orient',
+    responsive: false,
+    values: (vertical, horizontal)
   ),
 
   will-change: (
@@ -632,7 +825,7 @@ $feather-defaults: (
     responsive: false,
     states: (hover),
     values: (0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, auto)
-  )
+  ),
 );
 
 // Merge the default options and the custom options together.

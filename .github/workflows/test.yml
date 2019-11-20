@@ -1,0 +1,31 @@
+name: Test
+
+on:
+  pull_request:
+    types: [opened, synchronize, labeled, ready_for_review]
+
+jobs:
+  ci:
+    name: CI Tests
+    runs-on: ubuntu-latest
+    env:
+      NPM_USERNAME: ${{ secrets.NPM_USERNAME }}
+      NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
+      NPM_EMAIL: ${{ secrets.NPM_EMAIL }}
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-node@v1.2.0
+        with:
+          node-version: 11.x
+      - uses: actions/cache@v1.0.1
+        id: cache
+        with:
+          path: node_modules
+          key: node-${{ hashFiles('**/yarn.lock') }}
+      - run: npm install yarn -g
+      - run: yarn install
+        if: steps.cache.outputs.cache-hit != 'true'
+      - run: yarn build
+      - run: yarn audit --level low
