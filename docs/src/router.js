@@ -24,14 +24,19 @@ export default new Router({
         import(/* webpackChunkName: "about" */ '@/views/About.vue'),
     },
     {
-      path: '/utilities',
-      name: 'utilities',
-      // route level code-splitting
-      // this generates a separate chunk (about.[hash].js) for this route
-      // which is lazy-loaded when the route is visited.
+      path: '/utilities/',
+      name: 'utilities-index',
       component: () =>
         import(
-          /* webpackChunkName: "about" */ '@/views/utilities/index/index.vue'
+          /* webpackChunkName: "utilities" */ '@/views/utilities/index/index.vue'
+        ),
+    },
+    {
+      path: '/utilities/:name',
+      name: 'utilities-show',
+      component: () =>
+        import(
+          /* webpackChunkName: "utilities" */ '@/views/utilities/show/show.vue'
         ),
     },
     {
