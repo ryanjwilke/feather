@@ -1,4 +1,26 @@
 - name: color
+  values:
+    - name: transparent
+    - name: black
+      value: '#000'
+    - name: black-900
+      value: rgba(#000,.9)
+    - name: black-800
+      value: rgba(#000,.8)
+    - name: black-700
+      value: rgba(#000,.7)
+    - name: black-600
+      value: rgba(#000,.6)
+    - name: black-500
+      value: rgba(#000,.5)
+    - name: black-400
+      value: rgba(#000,.4)
+    - name: black-300
+      value: rgba(#000,.3)
+    - name: black-200
+      value: rgba(#000,.2)
+    - name: black-100
+      value: rgba(#000,.1)
 
 - name: background
   prefix: bg

@@ -3,11 +3,13 @@
     <h1 :class="css.title">{{ utility.name }}</h1>
 
     <div :class="css.code.container">
-      <div :class="css.code.text">
-        <template v-for="value in utility.values">
-          .{{ utility.prefix }}-{{ value.name }} { {{ utility.name }}: {{ value.value || value.name }} }
-        </template>
-      </div>
+      <ul :class="css.code.text">
+        <li v-for="value in utility.values" :key="value.name">
+          .{{ className(value) }}: {
+            {{ utility.name }}: {{ value.value || value.name }}
+          }
+        </li>
+      </ul>
     </div>
   </div>
 </template>
