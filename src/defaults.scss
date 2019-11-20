@@ -309,7 +309,11 @@ $feather-defaults: (
   grid-template-rows: (
     prefix: 'grid-rows',
     responsive: true,
-    values: (initial)
+    values: (
+      'auto-1fr': auto 1fr,
+      '1fr-auto': 1fr auto,
+      '1fr-1fr-auto': 1fr 1fr auto
+    )
   ),
 
   grid-template-columns: (
@@ -327,6 +331,18 @@ $feather-defaults: (
       'auto-x3': auto auto auto,
       'auto-x4': auto auto auto auto
     )
+  ),
+
+  grid-row-start: (
+    prefix: 'row-start',
+    responsive: false,
+    values: (1, 2, 3, 4)
+  ),
+
+  grid-row-end: (
+    prefix: 'row-end',
+    responsive: false,
+    values: (1, 2, 3, 4)
   ),
 
   line-height: (
