@@ -396,14 +396,14 @@ $feather-defaults: (
     prefix: 'm',
     responsive: true,
     variants: (t: top, b: bottom, l: left, r: right),
-    values: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px)
+    values: (auto, 0, 2px, 4px, 8px, 16px, 24px, 32px, 40px, 48px, 56px, 64px, 72px)
   ),
 
   padding: (
     prefix: 'p',
     responsive: true,
     variants: (t: top, b: bottom, l: left, r: right),
-    values: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px)
+    values: (0, 2px, 4px, 8px, 12px, 16px, 24px, 32px, 40px, 48px, 56px, 64px, 72px)
   ),
 
   max-height: (
@@ -415,7 +415,7 @@ $feather-defaults: (
   max-width: (
     prefix: 'max-w',
     responsive: true,
-    values: (0, 100%)
+    values: (0, 100%, 600px, 680px, 800px, 920px, 960px)
   ),
 
   min-height: (
