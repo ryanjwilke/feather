@@ -1,4 +1,0 @@
-[build]
-  command = "yarn build:docs"
-  publish = "docs/dist"
-  functions = "lambda-server"
