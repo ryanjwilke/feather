@@ -6,8 +6,24 @@ An incredibly lightweight, atomic CSS framework that's based entirely in Sass.
 [![Template Status](https://github.com/ryanjwilke/vue-cli-template/workflows/Production/badge.svg)](https://github.com/ryanjwilke/vue-cli-template/actions)
 
 ## Installation
+Installation with Yarn
 ```
 yarn add @ryanwilke/feather-css
+```
+
+Installation with NPM:
+```
+npm install @ryanwilke/feather-css
+```
+
+Adding Feather to your project is simply a matter of importing it in your application's sass files.
+```
+@import "node_modules/@ryanwilke/feather-css/dist/sass/feather.sass"
+```
+
+You can also make use of the pre-compiled CSS:
+```
+@import "node_modules/@ryanwilke/feather-css/dist/css/feather.css"
 ```
 
 ## Publishing a new version
