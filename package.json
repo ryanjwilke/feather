@@ -30,6 +30,7 @@
     "build": "yarn build:folders && yarn build:css && yarn build:sass",
     "build:css": "yarn sass --output-style compressed src/feather.sass > dist/css/feather.css",
     "build:sass": "cp -R src dist/sass",
+    "build:docs": "(cd docs && yarn build)",
     "build:folders": "mkdir -p dist && mkdir -p dist/css",
     "npm:publish": "yarn build && npm publish",
     "sass": "node_modules/.bin/node-sass"
