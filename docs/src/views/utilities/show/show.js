@@ -1,3 +1,4 @@
+import css from './show.css.yml'
 import utilities from '@/components/utility-list/utilities.yml'
 
 export default {
@@ -11,6 +12,7 @@ export default {
 
   data() {
     return {
+      css: css,
       utility: null,
       utilities: utilities,
     }

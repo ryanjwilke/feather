@@ -1,0 +1,5 @@
+container: p-64
+title: m-b-64
+code:
+  container: bg-color gray-200 rounded-4 p-32
+  text: gray-900 align-left
