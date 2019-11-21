@@ -5,7 +5,6 @@ An incredibly lightweight, atomic CSS framework that's based entirely in Sass.
 [![Release Workflow Status](https://github.com/ryanjwilke/feather/workflows/Release/badge.svg)](https://github.com/ryanjwilke/feather/actions)
 [![Production Workflow Status](https://github.com/ryanjwilke/feather/workflows/Production/badge.svg)](https://github.com/ryanjwilke/feather/actions)
 [![Test Workflow Status](https://github.com/ryanjwilke/feather/workflows/Test/badge.svg)](https://github.com/ryanjwilke/feather/actions)
-[![Template Status](https://github.com/ryanjwilke/vue-cli-template/workflows/Production/badge.svg)](https://github.com/ryanjwilke/vue-cli-template/actions)
 
 ## Installation
 Installation with Yarn
