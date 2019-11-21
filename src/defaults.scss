@@ -5,16 +5,7 @@ $feather-breakpoints: (
   xl: 1200px
 ) !default;
 
-$feather-position-values: (
-  '': 0,
-  '2': 2px,
-  '4': 4px,
-  '8': 8px,
-  '16': 16px,
-  '24': 24px,
-  '32': 32px,
-  '40': 40px
-) !default;
+$feather-position-values: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px, 48px, 56px, 64px, 72px, 80px, 120px, 160px, 200px, 240px, 280px, 320px) !default;
 
 $feather-colors: (
   'transparent': transparent,

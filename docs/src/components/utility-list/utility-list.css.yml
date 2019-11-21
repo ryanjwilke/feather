@@ -1,1 +1,4 @@
-list: list-style-none align-left p-32 leading-32 fixed pin-t pin-l pin-b w-280 overflow-y-auto medium
+list: >
+  list-style-none align-left text-14 leading-24 medium
+  fixed pin-t-64 pin-l-0 pin-b-0 w-280 overflow-y-auto
+  p-l-32 p-r-32 p-b-32
