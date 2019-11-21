@@ -1,8 +1,9 @@
-name: Test
+name: Production
 
 on:
-  pull_request:
-    types: [opened, synchronize, labeled, ready_for_review]
+  push:
+    branches:
+      - master
 
 jobs:
   ci:
@@ -24,15 +25,31 @@ jobs:
       - run: yarn install
         if: steps.cache.outputs.cache-hit != 'true'
       - run: yarn build
+      - run: yarn audit --level low
+      - run: yarn install
+        working-directory: docs
+      - run: yarn build
+        working-directory: docs
       - run: yarn prettier:check
+        working-directory: docs
       - run: yarn test:lint
+        working-directory: docs
       - run: yarn test:vue
+        working-directory: docs
       - run: yarn test:html
+        working-directory: docs
       - run: yarn test:unit:ci
+        working-directory: docs
       - run: yarn test:unit:coverage
+        working-directory: docs
       - run: yarn test:e2e:ci
+        working-directory: docs
       - run: yarn test:e2e:percy
+        working-directory: docs
         if: contains(github.event.pull_request.labels.*.name, 'Ready for Review')
         env:
           PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
           PERCY_BRANCH: ${{ github.head_ref }}
+        env:
+          PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
+          PERCY_BRANCH: master

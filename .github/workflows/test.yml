@@ -20,17 +20,23 @@ jobs:
         with:
           node-version: 11.x
       - uses: actions/cache@v1.0.1
-        id: cache
+        id: modules
         with:
           path: node_modules
-          key: node-${{ hashFiles('**/yarn.lock') }}
+          key: module-${{ hashFiles('yarn.lock') }}
       - run: npm install yarn -g
       - run: yarn install
-        if: steps.cache.outputs.cache-hit != 'true'
+        if: steps.modules.outputs.cache-hit != 'true'
       - run: yarn build
       - run: yarn audit --level low
+      - uses: actions/cache@v1.0.1
+        id: docs-modules
+        with:
+          path: docs/node_modules
+          key: docs-module-${{ hashFiles('docs/yarn.lock') }}
       - run: yarn install
         working-directory: docs
+        if: steps.docs-modules.outputs.cache-hit != 'true'
       - run: yarn build
         working-directory: docs
       - run: yarn prettier:check
