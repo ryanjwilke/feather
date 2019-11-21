@@ -8595,10 +8595,10 @@ html-validate-vue@^1.4.0:
   resolved "https://registry.yarnpkg.com/html-validate-vue/-/html-validate-vue-1.4.0.tgz#4b7e9383869875f64d6940527bd57967cc796f99"
   integrity sha512-AhxeWI7THE4JK3zJK+X2eruk7MjNNnFSCSsdw8GrIFt0cy+tmRBJRI5Ueg0J9gx91bihH+j1JOLHh2qq7RGT3w==
 
-html-validate@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/html-validate/-/html-validate-2.0.0.tgz#cc791d70cf5ccbf693d978279990013253da734c"
-  integrity sha512-tv5e0XSrb2hXQIgBlxIqVMd0E5wWpd7FyItL7DUwElqNkpT+I+TVbwY0D4KJnZ8aggSCqZ5+zU0SvrIsKmxMdg==
+html-validate@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/html-validate/-/html-validate-2.0.1.tgz#12115fde67bccfd9cf7e49c9a7a1563cc1981d70"
+  integrity sha512-eiusqXNcp/t+AjYHzgeQ1blqVmQvqyHz5kGneM1w8IBNRErd3RhhJ6qyrM3/UZkzRqBMMN3vGEpLtIc+VKQPwA==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     acorn-walk "^7.0.0"
