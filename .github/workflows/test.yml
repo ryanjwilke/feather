@@ -30,25 +30,25 @@ jobs:
       - run: yarn build
       - run: yarn audit --level low
       - run: yarn install
-        working_directory: docs
+        working-directory: docs
       - run: yarn build
-        working_directory: docs
+        working-directory: docs
       - run: yarn prettier:check
-        working_directory: docs
+        working-directory: docs
       - run: yarn test:lint
-        working_directory: docs
+        working-directory: docs
       - run: yarn test:vue
-        working_directory: docs
+        working-directory: docs
       - run: yarn test:html
-        working_directory: docs
+        working-directory: docs
       - run: yarn test:unit:ci
-        working_directory: docs
+        working-directory: docs
       - run: yarn test:unit:coverage
-        working_directory: docs
+        working-directory: docs
       - run: yarn test:e2e:ci
-        working_directory: docs
+        working-directory: docs
       - run: yarn test:e2e:percy
-        working_directory: docs
+        working-directory: docs
         if: contains(github.event.pull_request.labels.*.name, 'Ready for Review')
         env:
           PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
