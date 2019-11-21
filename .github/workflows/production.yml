@@ -1,8 +1,9 @@
-name: Test
+name: Production
 
 on:
-  pull_request:
-    types: [opened, synchronize, labeled, ready_for_review]
+  push:
+    branches:
+      - master
 
 jobs:
   ci:
@@ -55,7 +56,6 @@ jobs:
         working-directory: docs
       - run: yarn test:e2e:percy
         working-directory: docs
-        if: contains(github.event.pull_request.labels.*.name, 'Ready for Review')
         env:
           PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
-          PERCY_BRANCH: ${{ github.head_ref }}
+          PERCY_BRANCH: master
