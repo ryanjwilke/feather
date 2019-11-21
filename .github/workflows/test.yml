@@ -29,16 +29,26 @@ jobs:
         if: steps.cache.outputs.cache-hit != 'true'
       - run: yarn build
       - run: yarn audit --level low
-      - run: (cd docs && yarn install)
-      - run: (cd docs && yarn build)
-      - run: (cd docs && yarn prettier:check)
-      - run: (cd docs && yarn test:lint)
-      - run: (cd docs && yarn test:vue)
-      - run: (cd docs && yarn test:html)
-      - run: (cd docs && yarn test:unit:ci)
-      - run: (cd docs && yarn test:unit:coverage)
-      - run: (cd docs && yarn test:e2e:ci)
-      - run: (cd docs && yarn test:e2e:percy)
+      - run: yarn install
+        working_directory: docs
+      - run: yarn build
+        working_directory: docs
+      - run: yarn prettier:check
+        working_directory: docs
+      - run: yarn test:lint
+        working_directory: docs
+      - run: yarn test:vue
+        working_directory: docs
+      - run: yarn test:html
+        working_directory: docs
+      - run: yarn test:unit:ci
+        working_directory: docs
+      - run: yarn test:unit:coverage
+        working_directory: docs
+      - run: yarn test:e2e:ci
+        working_directory: docs
+      - run: yarn test:e2e:percy
+        working_directory: docs
         if: contains(github.event.pull_request.labels.*.name, 'Ready for Review')
         env:
           PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
