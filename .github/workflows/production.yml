@@ -56,7 +56,6 @@ jobs:
         working-directory: docs
       - run: yarn test:e2e:percy
         working-directory: docs
-        if: contains(github.event.pull_request.labels.*.name, 'Ready for Review')
         env:
           PERCY_TOKEN: ${{ secrets.PERCY_TOKEN }}
           PERCY_BRANCH: master
