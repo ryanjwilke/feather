@@ -15,7 +15,7 @@ export default {
       this.utility = this.utilities.find((item) => {
         return item.slug == name || item.name == name
       })
-      // if (!this.utility) this.$router.push('/404')
+      if (!this.utility) this.$router.push('/404')
     },
 
     className(value) {
