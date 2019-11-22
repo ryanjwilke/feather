@@ -336,7 +336,7 @@
     - name: font-style
     - name: font-weight
     - name: line-clamp
-      description: An non-standard utility currently available for WebKit only.
+      description: An non-standard utility for truncating text which is currently available for WebKit only.
       prefix: line-clamp
       values: [1, 2, 3, 4]
 
