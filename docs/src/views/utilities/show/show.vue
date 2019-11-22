@@ -4,7 +4,7 @@
     <h2 :class="css.subtitle" v-if="utility.description">
       {{ utility.description }}
     </h2>
-    <table :class="css.table" v-if="utility.values.length > 0">
+    <table :class="css.table">
       <thead :class="css.thead">
         <tr>
           <th :class="css.th" scope="col">Class</th>
