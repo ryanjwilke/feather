@@ -6,8 +6,8 @@
       <table :class="css.table">
         <thead :class="css.thead">
           <tr :class="css.tr">
-            <th :class="css.th">Class</th>
-            <th :class="css.th">Properties</th>
+            <th :class="css.th" scope="col">Class</th>
+            <th :class="css.th" scope="col">Properties</th>
           </tr>
         </thead>
         <tbody :class="css.tbody">
