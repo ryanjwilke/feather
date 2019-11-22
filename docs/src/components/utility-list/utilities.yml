@@ -224,8 +224,7 @@
 
 - name: background
   prefix: bg
-  values:
-    - name: none
+  values: [none]
 
 - name: background-color
   prefix: bg
@@ -235,31 +234,24 @@
 
 - name: animation-name
   prefix: animate
-  values:
-    - name: inherit
+  values: [inherit]
 
 - name: animation-delay
   prefix: delay
-  values:
-    - name: 300ms
-    - name: 600ms
-    - name: 900ms
+  values: [300ms, 600ms, 900ms]
 
 - name: animation-duration
   prefix: animate
-  values:
-    - name: 300ms
-    - name: 600ms
-    - name: 900ms
+  values: [300ms, 600ms, 900ms]
 
 - name: animation-direction
   prefix: animate
-  values:
-    - name: reverse
-    - name: alternate
-    - name: alternate-reverse
+  values: [reverse, alternate, alternate-reverse]
 
 - name: animation-timing-function
+  prefix: animate
+  values: [linear, ease, ease-in, ease-out]
+
 - name: animation-fill-mode
 - name: animation-iteration-count
 - name: backdrop-filter

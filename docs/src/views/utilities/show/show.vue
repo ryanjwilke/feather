@@ -22,7 +22,7 @@
             .{{ className(value) }}
           </td>
           <td :class="[css.td, css.properties]">
-            {{ utility.name }}: {{ value.value || value.name }}
+            {{ utility.name }}: {{ value.value || value.name || value }}
           </td>
         </tr>
       </tbody>

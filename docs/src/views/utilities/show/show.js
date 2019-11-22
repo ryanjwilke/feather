@@ -19,7 +19,7 @@ export default {
     className(value) {
       let name = []
       if (this.utility.prefix) name.push(`${this.utility.prefix}-`)
-      name.push(value.name)
+      name.push(value.name ? value.name : value)
       return name.join('')
     },
   },
