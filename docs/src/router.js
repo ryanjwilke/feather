@@ -15,14 +15,6 @@ export default new Router({
       component: Home,
     },
     {
-      path: '/utilities/',
-      name: 'utilities-index',
-      component: () =>
-        import(
-          /* webpackChunkName: "utilities" */ '@/views/utilities/index/index.vue'
-        ),
-    },
-    {
       path: '/utilities/:name',
       name: 'utilities-show',
       component: () =>
