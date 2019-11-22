@@ -1,8 +1,6 @@
 <template>
-  <header>
-    <h6>Feather</h6>
-    <router-link to="/utilities/color">Home</router-link> |
-    <router-link to="/utilities/background-color">Utilities</router-link>
+  <header :class="css.header">
+    <h6 :class="css.logo">Feather</h6>
   </header>
 </template>
 
