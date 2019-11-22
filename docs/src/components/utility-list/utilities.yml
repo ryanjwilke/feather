@@ -345,3 +345,4 @@
     - name: text-transform
     - name: white-space
     - name: line-clamp
+      description: An non-standard utility currently available for WebKit only.
