@@ -1,5 +1,5 @@
 <template>
-  <ul>
+  <ul :class="css.list">
     <utility-item
       v-for="utility in utilities"
       :utility="utility"

@@ -1,5 +1,5 @@
 import { shallowMount } from '@vue/test-utils'
-import PageNotFound from '@/views/PageNotFound.vue'
+import PageNotFound from '@/views/404/404.vue'
 
 describe('PageNotFound', () => {
   const wrapper = shallowMount(PageNotFound)

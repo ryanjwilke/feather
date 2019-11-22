@@ -5,16 +5,8 @@ $feather-breakpoints: (
   xl: 1200px
 ) !default;
 
-$feather-position-values: (
-  '': 0,
-  '2': 2px,
-  '4': 4px,
-  '8': 8px,
-  '16': 16px,
-  '24': 24px,
-  '32': 32px,
-  '40': 40px
-) !default;
+$feather-position-values: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px, 48px, 56px, 64px, 72px, 80px, 120px, 160px, 200px, 240px, 280px, 320px) !default;
+$feather-dimensions: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px, 48px, 56px, 64px, 72px, 80px, 88px, 96px, 120px, 160px, 200px, 240px, 280px, 320px, 25%, 33%, 50%, 100%) !default;
 
 $feather-colors: (
   'transparent': transparent,
@@ -224,6 +216,18 @@ $feather-defaults: (
     values: (none)
   ),
 
+  border-collapse: (
+    prefix: 'border',
+    responsive: false,
+    values: (collapse, separate)
+  ),
+
+  border-spacing: (
+    prefix: 'spacing',
+    responsive: false,
+    values: (2px, 4px, 8px, 16px)
+  ),
+
   border-color: (
     prefix: 'border',
     responsive: false,
@@ -377,13 +381,13 @@ $feather-defaults: (
   height: (
     prefix: 'h',
     responsive: true,
-    values: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px, 48px, 56px, 64px, 72px, 80px, 88px, 96px)
+    values: $feather-dimensions
   ),
 
   width: (
     prefix: 'w',
     responsive: true,
-    values: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px, 48px, 56px, 64px, 72px, 80px, 88px, 96px)
+    values: $feather-dimensions
   ),
 
   cursor: (

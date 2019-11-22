@@ -1,0 +1,327 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UtilitiesShow renders the background-color utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    background color
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    
+    Utilities for controlling an element's background color.
+  
+  </h2>
+   
+  <table
+    class="w-100% border-collapse m-t-32"
+  >
+    <thead
+      class="bg-color gray-100 text-14 leading-32"
+    >
+      <tr>
+        <th
+          class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+          scope="col"
+        >
+          Class
+        </th>
+         
+        <th
+          class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+          scope="col"
+        >
+          Properties
+        </th>
+      </tr>
+    </thead>
+     
+    <tbody
+      class="font-monospace text-14 leading-24"
+    >
+      <tr
+        class="border border-t-solid border-b-solid border-thin border-color gray-200"
+      >
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600"
+        >
+          
+          .bg-color
+        
+        </td>
+         
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+        >
+          
+          background-color: currentColor
+        
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`UtilitiesShow renders the color utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    color
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    
+    Utilities for controlling an element's color.
+  
+  </h2>
+   
+  <table
+    class="w-100% border-collapse m-t-32"
+  >
+    <thead
+      class="bg-color gray-100 text-14 leading-32"
+    >
+      <tr>
+        <th
+          class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+          scope="col"
+        >
+          Class
+        </th>
+         
+        <th
+          class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+          scope="col"
+        >
+          Properties
+        </th>
+      </tr>
+    </thead>
+     
+    <tbody
+      class="font-monospace text-14 leading-24"
+    >
+      <tr
+        class="border border-t-solid border-b-solid border-thin border-color gray-200"
+      >
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600"
+        >
+          
+          .transparent
+        
+        </td>
+         
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+        >
+          
+          color: transparent
+        
+        </td>
+      </tr>
+      <tr
+        class="border border-t-solid border-b-solid border-thin border-color gray-200"
+      >
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600"
+        >
+          
+          .black
+        
+        </td>
+         
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+        >
+          
+          color: #000
+        
+        </td>
+      </tr>
+      <tr
+        class="border border-t-solid border-b-solid border-thin border-color gray-200"
+      >
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600"
+        >
+          
+          .black-900
+        
+        </td>
+         
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+        >
+          
+          color: rgba(#000,.9)
+        
+        </td>
+      </tr>
+      <tr
+        class="border border-t-solid border-b-solid border-thin border-color gray-200"
+      >
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600"
+        >
+          
+          .black-800
+        
+        </td>
+         
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+        >
+          
+          color: rgba(#000,.8)
+        
+        </td>
+      </tr>
+      <tr
+        class="border border-t-solid border-b-solid border-thin border-color gray-200"
+      >
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600"
+        >
+          
+          .black-700
+        
+        </td>
+         
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+        >
+          
+          color: rgba(#000,.7)
+        
+        </td>
+      </tr>
+      <tr
+        class="border border-t-solid border-b-solid border-thin border-color gray-200"
+      >
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600"
+        >
+          
+          .black-600
+        
+        </td>
+         
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+        >
+          
+          color: rgba(#000,.6)
+        
+        </td>
+      </tr>
+      <tr
+        class="border border-t-solid border-b-solid border-thin border-color gray-200"
+      >
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600"
+        >
+          
+          .black-500
+        
+        </td>
+         
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+        >
+          
+          color: rgba(#000,.5)
+        
+        </td>
+      </tr>
+      <tr
+        class="border border-t-solid border-b-solid border-thin border-color gray-200"
+      >
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600"
+        >
+          
+          .black-400
+        
+        </td>
+         
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+        >
+          
+          color: rgba(#000,.4)
+        
+        </td>
+      </tr>
+      <tr
+        class="border border-t-solid border-b-solid border-thin border-color gray-200"
+      >
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600"
+        >
+          
+          .black-300
+        
+        </td>
+         
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+        >
+          
+          color: rgba(#000,.3)
+        
+        </td>
+      </tr>
+      <tr
+        class="border border-t-solid border-b-solid border-thin border-color gray-200"
+      >
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600"
+        >
+          
+          .black-200
+        
+        </td>
+         
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+        >
+          
+          color: rgba(#000,.2)
+        
+        </td>
+      </tr>
+      <tr
+        class="border border-t-solid border-b-solid border-thin border-color gray-200"
+      >
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600"
+        >
+          
+          .black-100
+        
+        </td>
+         
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+        >
+          
+          color: rgba(#000,.1)
+        
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

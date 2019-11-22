@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Home from '@/views/Home.vue'
-import PageNotFound from '@/views/PageNotFound.vue'
+import Home from '@/views/home/home.vue'
+import PageNotFound from '@/views/404/404.vue'
 
 Vue.use(Router)
 
@@ -13,14 +13,6 @@ export default new Router({
       path: '/',
       name: 'home',
       component: Home,
-    },
-    {
-      path: '/utilities/',
-      name: 'utilities-index',
-      component: () =>
-        import(
-          /* webpackChunkName: "utilities" */ '@/views/utilities/index/index.vue'
-        ),
     },
     {
       path: '/utilities/:name',

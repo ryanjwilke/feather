@@ -1,3 +1,4 @@
+import css from './utility-list.css.yml'
 import utilities from './utilities.yml'
 import UtilityItem from '@/components/utility-item/utility-item.vue'
 
@@ -8,6 +9,7 @@ export default {
 
   data() {
     return {
+      css: css,
       utilities: utilities,
     }
   },
