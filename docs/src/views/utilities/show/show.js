@@ -13,6 +13,7 @@ export default {
   methods: {
     findUtility(name) {
       this.utility = this.utilities.find((item) => item.name == name)
+      if (!this.utility) this.$router.push('/404')
     },
 
     className(value) {
