@@ -6,7 +6,7 @@
     </h2>
     <table :class="css.table">
       <thead :class="css.thead">
-        <tr>
+        <tr :class="css.tr">
           <th :class="css.th" scope="col">Class</th>
           <th :class="css.th" scope="col">Properties</th>
         </tr>
