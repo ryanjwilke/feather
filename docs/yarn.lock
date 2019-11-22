@@ -1464,7 +1464,7 @@
   integrity sha1-p3c2C1s5oaLlEG+OhY8v0tBgxXA=
 
 "@ryanwilke/feather-css@file:..":
-  version "2.2.0"
+  version "2.3.0"
 
 "@samverschueren/stream-to-observable@^0.3.0":
   version "0.3.0"
@@ -8595,16 +8595,16 @@ html-validate-vue@^1.4.0:
   resolved "https://registry.yarnpkg.com/html-validate-vue/-/html-validate-vue-1.4.0.tgz#4b7e9383869875f64d6940527bd57967cc796f99"
   integrity sha512-AhxeWI7THE4JK3zJK+X2eruk7MjNNnFSCSsdw8GrIFt0cy+tmRBJRI5Ueg0J9gx91bihH+j1JOLHh2qq7RGT3w==
 
-html-validate@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/html-validate/-/html-validate-2.0.1.tgz#12115fde67bccfd9cf7e49c9a7a1563cc1981d70"
-  integrity sha512-eiusqXNcp/t+AjYHzgeQ1blqVmQvqyHz5kGneM1w8IBNRErd3RhhJ6qyrM3/UZkzRqBMMN3vGEpLtIc+VKQPwA==
+html-validate@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/html-validate/-/html-validate-2.1.0.tgz#a3fe4446a62a176bfacfbebb3d74a4b50ad28d84"
+  integrity sha512-d15+Xc9/sr7yQ9rTdkgs9XKTOc45xWGYZOqbuPFtny5Tly97aP0T8WA0w939wQYcOJwVS0i3kcxN5AmSMID52A==
   dependencies:
     "@babel/code-frame" "^7.0.0"
     acorn-walk "^7.0.0"
     ajv "^6.10.0"
     better-ajv-errors "^0.6.2"
-    chalk "^2.4.2"
+    chalk "^3.0.0"
     deepmerge "^4.0.0"
     eslint "^6.0.0"
     espree "^6.0.0"
