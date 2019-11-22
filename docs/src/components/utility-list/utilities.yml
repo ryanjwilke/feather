@@ -23,6 +23,7 @@
     - name: animation-fill-mode
     - name: animation-iteration-count
     - name: transition
+    - name: will-change
 
 - name: misc
   utilities:
@@ -266,35 +267,39 @@
     - name: border-style
     - name: border-width
     - name: box-shadow
-    - name: fill
-    - name: filter
-    - name: list-style
-    - name: height
-    - name: width
-    - name: cursor
     - name: margin
     - name: padding
-    - name: max-height
-    - name: max-width
-    - name: min-height
-    - name: min-width
-    - name: display
     - name: overflow
     - name: border-radius
-    - name: opacity
-    - name: outline
-    - name: pointer-events
-    - name: transform
-    - name: user-select
     - name: vertical-align
+    - name: -webkit-box-orient
+    - name: z-index
+
+- name: svg
+  utilities:
+    - name: fill
     - name: stroke
     - name: stroke-linecap
     - name: stroke-linejoin
     - name: stroke-width
+
+- name: appearance
+  utilities:
+    - name: display
+    - name: filter
+    - name: opacity
+    - name: outline
+    - name: transform
     - name: visibility
-    - name: -webkit-box-orient
-    - name: will-change
-    - name: z-index
+
+- name: sizing
+  utilities:
+    - name: height
+    - name: width
+    - name: max-height
+    - name: max-width
+    - name: min-height
+    - name: min-width
 
 - name: layout
   utilities:
@@ -319,6 +324,12 @@
     - name: flex-direction
     - name: flex-wrap
 
+- name: interactivity
+  utilities:
+    - name: cursor
+    - name: pointer-events
+    - name: user-select
+
 - name: typography
   utilities:
     - name: font-family
@@ -326,6 +337,7 @@
     - name: font-style
     - name: font-weight
     - name: line-height
+    - name: list-style
     - name: text-align
     - name: text-decoration
     - name: text-shadow
