@@ -4,6 +4,12 @@ import utilities from '@/components/utility-list/utilities.yml'
 export default {
   name: 'utilities-show',
 
+  computed: {
+    title() {
+      return this.utility.name.replace(/-/, ' ')
+    },
+  },
+
   methods: {
     className(value) {
       let name = []

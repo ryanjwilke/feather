@@ -1,7 +1,9 @@
 <template>
   <div :class="css.container">
-    <h1 :class="css.title">{{ utility.name }}</h1>
-    <h2 :class="css.subtitle">Utilities for controlling an element's background color.</h2>
+    <h1 :class="css.title">{{ title }}</h1>
+    <h2 :class="css.subtitle" v-if="utility.description">
+      {{ utility.description }}
+    </h2>
     <div>
       <table :class="css.table">
         <thead :class="css.thead">

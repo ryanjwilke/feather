@@ -1,4 +1,5 @@
 - name: color
+  description: Utilities for controlling an element's color.
   values:
     - name: transparent
     - name: black
@@ -23,11 +24,13 @@
       value: rgba(#000,.1)
 
 - name: background
+  description: Utilities for controlling an element's background.
   prefix: bg
   values:
     - name: none
 
 - name: background-color
+  description: Utilities for controlling an element's background color.
   prefix: bg
   values:
     - name: color
