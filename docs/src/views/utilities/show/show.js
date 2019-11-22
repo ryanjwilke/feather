@@ -6,7 +6,7 @@ export default {
 
   computed: {
     title() {
-      return this.utility.name.replace(/-/, ' ')
+      return this.utility.name.replace(/-/g, ' ')
     },
   },
 
