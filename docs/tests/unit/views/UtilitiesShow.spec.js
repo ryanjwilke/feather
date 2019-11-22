@@ -1,4 +1,4 @@
-import { config, shallowMount } from '@vue/test-utils'
+import { shallowMount } from '@vue/test-utils'
 import UtilitiesShow from '@/views/utilities/show/show.vue'
 
 describe('UtilitiesShow', () => {
