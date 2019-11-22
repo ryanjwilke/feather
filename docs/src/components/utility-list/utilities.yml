@@ -1,5 +1,4 @@
 - name: color
-  description: Utilities for controlling an element's color.
   values:
     - name: transparent
     - name: black
@@ -224,22 +223,42 @@
       value: '#702459'
 
 - name: background
-  description: Utilities for controlling an element's background.
   prefix: bg
   values:
     - name: none
 
 - name: background-color
-  description: Utilities for controlling an element's background color.
   prefix: bg
   values:
     - name: color
       value: currentColor
 
 - name: animation-name
+  prefix: animate
+  values:
+    - name: inherit
+
 - name: animation-delay
+  prefix: delay
+  values:
+    - name: 300ms
+    - name: 600ms
+    - name: 900ms
+
 - name: animation-duration
+  prefix: animate
+  values:
+    - name: 300ms
+    - name: 600ms
+    - name: 900ms
+
 - name: animation-direction
+  prefix: animate
+  values:
+    - name: reverse
+    - name: alternate
+    - name: alternate-reverse
+
 - name: animation-timing-function
 - name: animation-fill-mode
 - name: animation-iteration-count

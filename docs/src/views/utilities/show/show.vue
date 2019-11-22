@@ -1,8 +1,13 @@
 <template>
   <div :class="css.container">
     <h1 :class="css.title">{{ title }}</h1>
-    <h2 :class="css.subtitle" v-if="utility.description">
-      {{ utility.description }}
+    <h2 :class="css.subtitle">
+      <template v-if="utility.description">
+        {{ utility.description }}
+      </template>
+      <template v-else>
+        Utilities for controlling an element's {{ title }}.
+      </template>
     </h2>
     <table :class="css.table">
       <thead :class="css.thead">
