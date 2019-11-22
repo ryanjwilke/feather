@@ -1,2 +1,6 @@
-header: border border-thin border-b-solid border-color gray-200 p-l-32 h-64 relative leading-64
+header: >
+  fixed pin-t-0 pin-l-0 pin-r-0
+  bg-color white z-100
+  p-l-32 h-64 leading-64
+border: border border-thin border-b-solid border-color gray-200
 logo: gray-800 text-24 medium

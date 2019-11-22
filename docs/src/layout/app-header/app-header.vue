@@ -1,6 +1,8 @@
 <template>
   <header :class="css.header">
-    <h6 :class="css.logo">Feather</h6>
+    <div :class="css.border">
+      <h6 :class="css.logo">Feather</h6>
+    </div>
   </header>
 </template>
 
