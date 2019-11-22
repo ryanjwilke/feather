@@ -1,5 +1,12 @@
 container: align-left
-title: m-b-64
-code:
-  container: bg-color gray-200 rounded-4 p-32
-  text: gray-900 align-left list-style-none leading-32 text-16
+title: m-b-8 capitalize gray-800 medium text-32
+subtitle: normal gray-500 text-16
+
+table: w-100% border-collapse leading-24 m-t-32
+thead: bg-color gray-100 text-16
+tbody: font-monospace text-14
+tr: border border-t-solid border-b-solid border-thin border-color gray-200
+th: gray-700 p-16
+td: p-t-8 p-b-8 p-l-16 p-r-16
+class_name: purple-600
+properties: blue-700

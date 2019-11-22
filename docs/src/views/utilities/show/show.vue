@@ -1,15 +1,26 @@
 <template>
   <div :class="css.container">
     <h1 :class="css.title">{{ utility.name }}</h1>
-
-    <div :class="css.code.container">
-      <ul :class="css.code.text">
-        <li v-for="value in utility.values" :key="value.name">
-          .{{ className(value) }}: {
-            {{ utility.name }}: {{ value.value || value.name }}
-          }
-        </li>
-      </ul>
+    <h2 :class="css.subtitle">Utilities for controlling an element's background color.</h2>
+    <div>
+      <table :class="css.table">
+        <thead :class="css.thead">
+          <tr :class="css.tr">
+            <th :class="css.th">Class</th>
+            <th :class="css.th">Properties</th>
+          </tr>
+        </thead>
+        <tbody :class="css.tbody">
+          <tr v-for="value in utility.values" :key="value.name" :class="css.tr">
+            <td :class="[css.td, css.class_name]">
+              .{{ className(value) }}
+            </td>
+            <td :class="[css.td, css.properties]">
+              {{ utility.name }}: {{ value.value || value.name }}
+            </td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </div>
 </template>
