@@ -344,3 +344,4 @@
     - name: text-overflow
     - name: text-transform
     - name: white-space
+    - name: line-clamp
