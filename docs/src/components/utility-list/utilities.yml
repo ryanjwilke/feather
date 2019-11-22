@@ -272,7 +272,6 @@
     - name: overflow
     - name: border-radius
     - name: vertical-align
-    - name: -webkit-box-orient
     - name: z-index
 
 - name: svg
