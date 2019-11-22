@@ -1,5 +1,5 @@
 import { shallowMount } from '@vue/test-utils'
-import Home from '@/views/Home.vue'
+import Home from '@/views/home/home.vue'
 
 describe('Home', () => {
   const wrapper = shallowMount(Home)
