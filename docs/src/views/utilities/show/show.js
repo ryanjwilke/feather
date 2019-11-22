@@ -1,5 +1,5 @@
 import css from './show.css.yml'
-import utilities from '@/components/utility-list/utilities.yml'
+import groups from '@/components/utility-list/utilities.yml'
 
 export default {
   name: 'utilities-show',
@@ -12,8 +12,10 @@ export default {
 
   methods: {
     findUtility(name) {
-      this.utility = this.utilities.find((item) => item.name == name)
-      if (!this.utility) this.$router.push('/404')
+      this.utility = this.utilities.find((item) => {
+        return item.slug == name || item.name == name
+      })
+      // if (!this.utility) this.$router.push('/404')
     },
 
     className(value) {
@@ -36,8 +38,9 @@ export default {
   data() {
     return {
       css: css,
+      groups: groups,
       utility: null,
-      utilities: utilities,
+      utilities: [].concat(...groups.map((g) => g.utilities)),
     }
   },
 }
