@@ -22,6 +22,206 @@
       value: rgba(#000,.2)
     - name: black-100
       value: rgba(#000,.1)
+    - name: white
+      value: '#fff'
+    - name: white-900
+      value: rgba(#fff,.9)
+    - name: white-800
+      value: rgba(#fff,.8)
+    - name: white-700
+      value: rgba(#fff,.7)
+    - name: white-600
+      value: rgba(#fff,.6)
+    - name: white-500
+      value: rgba(#fff,.5)
+    - name: white-400
+      value: rgba(#fff,.4)
+    - name: white-300
+      value: rgba(#fff,.3)
+    - name: white-200
+      value: rgba(#fff,.2)
+    - name: white-100
+      value: rgba(#fff,.1)
+    - name: gray-100
+      value: '#f7fafc'
+    - name: gray-200
+      value: '#edf2f7'
+    - name: gray-300
+      value: '#e2e8f0'
+    - name: gray-400
+      value: '#cbd5e0'
+    - name: gray-500
+      value: '#a0aec0'
+    - name: gray-600
+      value: '#718096'
+    - name: gray-700
+      value: '#4a5568'
+    - name: gray-800
+      value: '#2d3748'
+    - name: gray-900
+      value: '#1a202c'
+    - name: red-100
+      value: '#fff5f5'
+    - name: red-200
+      value: '#fed7d7'
+    - name: red-300
+      value: '#feb2b2'
+    - name: red-400
+      value: '#fc8181'
+    - name: red-500
+      value: '#f56565'
+    - name: red-600
+      value: '#e53e3e'
+    - name: red-700
+      value: '#c53030'
+    - name: red-800
+      value: '#9b2c2c'
+    - name: red-900
+      value: '#742a2a'
+    - name: orange-100
+      value: '#fffaf0'
+    - name: orange-200
+      value: '#feebc8'
+    - name: orange-300
+      value: '#fbd38d'
+    - name: orange-400
+      value: '#f6ad55'
+    - name: orange-500
+      value: '#ed8936'
+    - name: orange-600
+      value: '#dd6b20'
+    - name: orange-700
+      value: '#c05621'
+    - name: orange-800
+      value: '#9c4221'
+    - name: orange-900
+      value: '#7b341e'
+    - name: yellow-100
+      value: '#fffff0'
+    - name: yellow-200
+      value: '#fefcbf'
+    - name: yellow-300
+      value: '#faf089'
+    - name: yellow-400
+      value: '#f6e05e'
+    - name: yellow-500
+      value: '#ecc94b'
+    - name: yellow-600
+      value: '#d69e2e'
+    - name: yellow-700
+      value: '#b7791f'
+    - name: yellow-800
+      value: '#975a16'
+    - name: yellow-900
+      value: '#744210'
+    - name: green-100
+      value: '#f0fff4'
+    - name: green-200
+      value: '#c6f6d5'
+    - name: green-300
+      value: '#9ae6b4'
+    - name: green-400
+      value: '#68d391'
+    - name: green-500
+      value: '#48bb78'
+    - name: green-600
+      value: '#38a169'
+    - name: green-700
+      value: '#2f855a'
+    - name: green-800
+      value: '#276749'
+    - name: green-900
+      value: '#22543d'
+    - name: teal-100
+      value: '#e6fffa'
+    - name: teal-200
+      value: '#b2f5ea'
+    - name: teal-300
+      value: '#81e6d9'
+    - name: teal-400
+      value: '#4fd1c5'
+    - name: teal-500
+      value: '#38b2ac'
+    - name: teal-600
+      value: '#319795'
+    - name: teal-700
+      value: '#2c7a7b'
+    - name: teal-800
+      value: '#285e61'
+    - name: teal-900
+      value: '#234e52'
+    - name: blue-100
+      value: '#ebf8ff'
+    - name: blue-200
+      value: '#bee3f8'
+    - name: blue-300
+      value: '#90cdf4'
+    - name: blue-400
+      value: '#63b3ed'
+    - name: blue-500
+      value: '#4299e1'
+    - name: blue-600
+      value: '#3182ce'
+    - name: blue-700
+      value: '#2b6cb0'
+    - name: blue-800
+      value: '#2c5282'
+    - name: blue-900
+      value: '#2a4365'
+    - name: indigo-100
+      value: '#ebf4ff'
+    - name: indigo-200
+      value: '#c3dafe'
+    - name: indigo-300
+      value: '#a3bffa'
+    - name: indigo-400
+      value: '#7f9cf5'
+    - name: indigo-500
+      value: '#667eea'
+    - name: indigo-600
+      value: '#5a67d8'
+    - name: indigo-700
+      value: '#4c51bf'
+    - name: indigo-800
+      value: '#434190'
+    - name: indigo-900
+      value: '#3c366b'
+    - name: purple-100
+      value: '#faf5ff'
+    - name: purple-200
+      value: '#e9d8fd'
+    - name: purple-300
+      value: '#d6bcfa'
+    - name: purple-400
+      value: '#b794f4'
+    - name: purple-500
+      value: '#9f7aea'
+    - name: purple-600
+      value: '#805ad5'
+    - name: purple-700
+      value: '#6b46c1'
+    - name: purple-800
+      value: '#553c9a'
+    - name: purple-900
+      value: '#44337a'
+    - name: pink-100
+      value: '#fff5f7'
+    - name: pink-200
+      value: '#fed7e2'
+    - name: pink-300
+      value: '#fbb6ce'
+    - name: pink-400
+      value: '#f687b3'
+    - name: pink-500
+      value: '#ed64a6'
+    - name: pink-600
+      value: '#d53f8c'
+    - name: pink-700
+      value: '#b83280'
+    - name: pink-800
+      value: '#97266d'
+    - name: pink-900
+      value: '#702459'
 
 - name: background
   description: Utilities for controlling an element's background.
