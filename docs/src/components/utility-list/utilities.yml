@@ -25,6 +25,18 @@
     - name: transition
     - name: will-change
 
+- name: appearance
+  utilities:
+    - name: display
+    - name: filter
+    - name: opacity
+    - name: outline
+    - name: transform
+    - name: visibility
+    - name: box-shadow
+    - name: backdrop-filter
+    - name: overflow
+
 - name: backgrounds
   utilities:
     - name: background
@@ -58,48 +70,6 @@
     - name: border-style
     - name: border-width
 
-- name: svg
-  utilities:
-    - name: fill
-    - name: stroke
-    - name: stroke-linecap
-    - name: stroke-linejoin
-    - name: stroke-width
-
-- name: appearance
-  utilities:
-    - name: display
-    - name: filter
-    - name: opacity
-    - name: outline
-    - name: transform
-    - name: visibility
-    - name: box-shadow
-    - name: backdrop-filter
-    - name: overflow
-
-- name: spacing
-  utilities:
-    - name: margin
-    - name: padding
-
-- name: sizing
-  utilities:
-    - name: height
-    - name: width
-    - name: max-height
-    - name: max-width
-    - name: min-height
-    - name: min-width
-
-- name: layout
-  utilities:
-    - name: float
-    - name: position
-    - name: top, right, bottom, left
-      slug: pin
-    - name: z-index
-
 - name: grid
   utilities:
     - name: grid-column-gap
@@ -121,6 +91,36 @@
     - name: cursor
     - name: pointer-events
     - name: user-select
+
+- name: layout
+  utilities:
+    - name: float
+    - name: position
+    - name: top, right, bottom, left
+      slug: pin
+    - name: z-index
+
+- name: spacing
+  utilities:
+    - name: margin
+    - name: padding
+
+- name: sizing
+  utilities:
+    - name: height
+    - name: width
+    - name: max-height
+    - name: max-width
+    - name: min-height
+    - name: min-width
+
+- name: svg
+  utilities:
+    - name: fill
+    - name: stroke
+    - name: stroke-linecap
+    - name: stroke-linejoin
+    - name: stroke-width
 
 - name: typography
   utilities:
