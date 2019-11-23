@@ -11,11 +11,11 @@ export default {
     filteredGroups() {
       if (this.query == '' || this.query == null) return this.groups
 
-      return this.groups.filter((group) => {
-        let utilities = group.utilities.filter((item) => {
-          return item.name.includes(this.query)
-        })
-        if (utilities.length > 0) return group
+      return this.groups.map((group) => {
+        return {
+          name: group.name,
+          utilities: group.utilities.filter((i) => i.name.includes(this.query)),
+        }
       })
     },
   },
