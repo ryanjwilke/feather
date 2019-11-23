@@ -1,7 +1,7 @@
 <template>
   <ul :class="[css.container, css.list]">
     <li v-for="group in filteredGroups" :key="group.name">
-      <template v-if="group.utilities && group.utilities.length > 0">
+      <template v-if="group.utilities.length > 0">
         <h5 :class="css.group">{{ group.name }}</h5>
         <ul :class="css.list">
           <utility-item
