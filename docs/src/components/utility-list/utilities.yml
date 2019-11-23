@@ -28,6 +28,7 @@
 - name: appearance
   utilities:
     - name: appearance
+      values: [none]
     - name: display
     - name: filter
     - name: opacity
