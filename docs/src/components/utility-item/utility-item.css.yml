@@ -1,2 +1,7 @@
-item: bg-color transparent hover:purple-100 rounded-4 ease-300ms
-link: no-underline ease-300ms gray-600 hover:purple-600 block p-l-8 p-r-8
+item: bg-color rounded-4 ease-300ms
+item__active: purple-100
+item__inactive: transparent hover:teal-100
+
+link: no-underline ease-300ms block p-l-8 p-r-8
+link__active: purple-600 click-none
+link__inactive: gray-600 hover:teal-700

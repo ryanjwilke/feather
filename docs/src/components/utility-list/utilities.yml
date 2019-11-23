@@ -87,6 +87,8 @@
   utilities:
     - name: cursor
     - name: pointer-events
+      prefix: click
+      values: [none, auto]
     - name: user-select
 
 - name: layout
