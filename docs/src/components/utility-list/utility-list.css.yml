@@ -1,5 +1,5 @@
 container: >
   hidden lg:block
-  fixed pin-t-64 pin-l-0 pin-b-0 w-280 overflow-y-auto
-  p-l-32 p-r-32 p-b-32 p-t-16
+  fixed pin-t-72 pin-l-0 pin-b-0 w-280 overflow-y-auto
+  p-l-32 p-r-32 p-b-32
   align-left text-14 leading-32 medium list-style-none
