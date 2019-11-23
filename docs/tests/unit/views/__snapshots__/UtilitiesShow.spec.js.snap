@@ -25,7 +25,7 @@ exports[`UtilitiesShow renders the background-color utility documentation correc
       class="bg-color gray-100 text-14 leading-32"
     >
       <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
+        class="border border-t-solid border-b-solid border-thin border-$color"
       >
         <th
           class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -65,6 +65,25 @@ exports[`UtilitiesShow renders the background-color utility documentation correc
         
         </td>
       </tr>
+      <tr
+        class="border border-t-solid border-b-solid border-thin border-color gray-200"
+      >
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+        >
+          
+          .bg-$color
+        
+        </td>
+         
+        <td
+          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+        >
+          
+          background-color: var(--bg-color)
+        
+        </td>
+      </tr>
     </tbody>
   </table>
 </div>
@@ -95,7 +114,7 @@ exports[`UtilitiesShow renders the color utility documentation correctly 1`] = `
       class="bg-color gray-100 text-14 leading-32"
     >
       <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
+        class="border border-t-solid border-b-solid border-thin border-$color"
       >
         <th
           class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
