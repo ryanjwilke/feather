@@ -48,8 +48,6 @@
       values:
         - name: color
           value: currentColor
-        - name: $color
-          value: var(--bg-color)
 
     - name: background-attachment
     - name: background-image
@@ -63,8 +61,6 @@
       values:
         - name: color
           value: currentColor
-        - name: $color
-          value: var(--border-color)
 
     - name: border-radius
     - name: border-style
