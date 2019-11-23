@@ -216,10 +216,28 @@ $feather-defaults: (
     values: ('color': currentColor)
   ),
 
+  background-attachment: (
+    prefix: 'bg',
+    responsive: false,
+    values: (fixed, local, scroll)
+  ),
+
   background-image: (
     prefix: 'bg',
-    responsive: true,
+    responsive: false,
     values: (none)
+  ),
+
+  background-repeat: (
+    prefix: 'bg',
+    responsive: false,
+    values: (repeat, no-repeat, repeat-x, repeat-y)
+  ),
+
+  background-size: (
+    prefix: 'bg',
+    responsive: false,
+    values: (auto, cover, contain)
   ),
 
   border-collapse: (

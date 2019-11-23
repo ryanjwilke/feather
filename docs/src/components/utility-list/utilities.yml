@@ -52,9 +52,20 @@
           value: currentColor
 
     - name: background-attachment
+      prefix: bg
+      values: [fixed, local, scroll]
+
     - name: background-image
+      prefix: bg
+      values: [none]
+
     - name: background-repeat
+      prefix: bg
+      values: [repeat, no-repeat, repeat-x, repeat-y]
+
     - name: background-size
+      prefix: bg
+      values: [auto, cover, contain]
 
 - name: borders
   utilities:
