@@ -35,7 +35,6 @@ export default {
       css: css,
       query: null,
       groups: groups,
-      utilities: [].concat(...groups.map((g) => g.utilities)),
     }
   },
 }
