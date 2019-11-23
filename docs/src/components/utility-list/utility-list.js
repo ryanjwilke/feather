@@ -8,11 +8,14 @@ export default {
   components: { UtilityItem },
 
   computed: {
-    filteredUtilities() {
-      if (!this.query) return this.utilities
+    filteredGroups() {
+      if (this.query == '' || this.query == null) return this.groups
 
-      return this.utilities.filter((item) => {
-        return item.name.includes(this.query)
+      return this.groups.filter((group) => {
+        let utilities = group.utilities.filter((item) => {
+          return item.name.includes(this.query)
+        })
+        if (utilities.length > 0) return group
       })
     },
   },

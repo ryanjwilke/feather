@@ -1,6 +1,6 @@
 <template>
   <ul :class="[css.container, css.list]">
-    <li v-for="group in groups" :key="group.name">
+    <li v-for="group in filteredGroups" :key="group.name">
       <h5 :class="css.group">{{ group.name }}</h5>
       <ul :class="css.list">
         <utility-item
