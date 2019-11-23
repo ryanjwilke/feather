@@ -11,13 +11,13 @@
     </h2>
     <table :class="css.table">
       <thead :class="css.thead">
-        <tr :class="css.tr">
+        <tr :class="[css.tr.base, css.tr.head]" :style="css.tr.style">
           <th :class="css.th" scope="col">Class</th>
           <th :class="css.th" scope="col">Properties</th>
         </tr>
       </thead>
       <tbody :class="css.tbody">
-        <tr v-for="(value, index) in utility.values" :key="index" :class="css.tr">
+        <tr v-for="(value, index) in utility.values" :key="index" :class="[css.tr.base, css.tr.body]">
           <td :class="[css.td, css.class_name]">
             .{{ className(value) }}
           </td>

@@ -25,7 +25,95 @@
     - name: transition
     - name: will-change
 
-- name: misc
+- name: backgrounds
+  utilities:
+    - name: background
+      prefix: bg
+      values: [none]
+
+    - name: background-color
+      prefix: bg
+      values:
+        - name: color
+          value: currentColor
+
+    - name: background-attachment
+    - name: background-image
+    - name: background-repeat
+    - name: background-size
+
+- name: borders
+  utilities:
+    - name: border-color
+    - name: border-radius
+    - name: border-style
+    - name: border-width
+
+- name: svg
+  utilities:
+    - name: fill
+    - name: stroke
+    - name: stroke-linecap
+    - name: stroke-linejoin
+    - name: stroke-width
+
+- name: appearance
+  utilities:
+    - name: display
+    - name: filter
+    - name: opacity
+    - name: outline
+    - name: transform
+    - name: visibility
+    - name: box-shadow
+    - name: backdrop-filter
+    - name: overflow
+
+- name: spacing
+  utilities:
+    - name: margin
+    - name: padding
+
+- name: sizing
+  utilities:
+    - name: height
+    - name: width
+    - name: max-height
+    - name: max-width
+    - name: min-height
+    - name: min-width
+
+- name: layout
+  utilities:
+    - name: float
+    - name: position
+    - name: top, right, bottom, left
+      slug: pin
+    - name: z-index
+
+- name: grid
+  utilities:
+    - name: grid-column-gap
+    - name: grid-row-gap
+    - name: grid-template-rows
+    - name: grid-template-columns
+    - name: grid-row-start
+    - name: grid-row-end
+    - name: justify-content
+    - name: align-items
+    - name: flex-basis
+    - name: flex-grow
+    - name: flex-shrink
+    - name: flex-direction
+    - name: flex-wrap
+
+- name: interactivity
+  utilities:
+    - name: cursor
+    - name: pointer-events
+    - name: user-select
+
+- name: typography
   utilities:
     - name: color
       values:
@@ -251,86 +339,6 @@
         - name: pink-900
           value: '#702459'
 
-    - name: background
-      prefix: bg
-      values: [none]
-
-    - name: background-color
-      prefix: bg
-      values:
-        - name: color
-          value: currentColor
-
-    - name: backdrop-filter
-    - name: background-image
-    - name: border-color
-    - name: border-style
-    - name: border-width
-    - name: box-shadow
-    - name: margin
-    - name: padding
-    - name: overflow
-    - name: border-radius
-    - name: vertical-align
-    - name: z-index
-
-- name: svg
-  utilities:
-    - name: fill
-    - name: stroke
-    - name: stroke-linecap
-    - name: stroke-linejoin
-    - name: stroke-width
-
-- name: appearance
-  utilities:
-    - name: display
-    - name: filter
-    - name: opacity
-    - name: outline
-    - name: transform
-    - name: visibility
-
-- name: sizing
-  utilities:
-    - name: height
-    - name: width
-    - name: max-height
-    - name: max-width
-    - name: min-height
-    - name: min-width
-
-- name: layout
-  utilities:
-    - name: position
-    - name: float
-    - name: top, right, bottom, left
-      slug: pin
-
-- name: grid
-  utilities:
-    - name: grid-column-gap
-    - name: grid-row-gap
-    - name: grid-template-rows
-    - name: grid-template-columns
-    - name: grid-row-start
-    - name: grid-row-end
-    - name: justify-content
-    - name: align-items
-    - name: flex-basis
-    - name: flex-grow
-    - name: flex-shrink
-    - name: flex-direction
-    - name: flex-wrap
-
-- name: interactivity
-  utilities:
-    - name: cursor
-    - name: pointer-events
-    - name: user-select
-
-- name: typography
-  utilities:
     - name: font-family
     - name: font-size
     - name: font-style
@@ -349,3 +357,4 @@
     - name: text-overflow
     - name: text-transform
     - name: white-space
+    - name: vertical-align
