@@ -12,4 +12,4 @@ form: >
   absolute pin-l-320 pin-t-16
 input: >
   w-100% appearance-none appearance-none block border-none font-default
-  gray-700 text-16 indent-16 h-40
+  gray-700 text-16 indent-16 h-40 outline-none
