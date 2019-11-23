@@ -5,6 +5,7 @@
     "^.*\\.vue$": "html-validate-vue"
   },
   "rules": {
+    "no-inline-style": "warn",
     "attr-case": "error",
     "attribute-boolean-style": "error",
     "close-attr": "error",
