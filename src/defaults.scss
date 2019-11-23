@@ -6,7 +6,7 @@ $feather-breakpoints: (
 ) !default;
 
 $feather-position-values: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px, 48px, 56px, 64px, 72px, 80px, 120px, 160px, 200px, 240px, 280px, 320px) !default;
-$feather-dimensions: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px, 48px, 56px, 64px, 72px, 80px, 88px, 96px, 120px, 160px, 200px, 240px, 280px, 320px, 25%, 33%, 50%, 100%) !default;
+$feather-dimensions: (0, 2px, 4px, 8px, 16px, 24px, 32px, 40px, 48px, 56px, 64px, 72px, 80px, 88px, 96px, 120px, 160px, 200px, 240px, 280px, 320px, 360px, 400px, 25%, 33%, 50%, 100%) !default;
 
 $feather-colors: (
   'transparent': transparent,
@@ -189,6 +189,12 @@ $feather-defaults: (
     values: (infinite)
   ),
 
+  appearance: (
+    prefix: 'appearance',
+    responsive: false,
+    values: (none)
+  ),
+
   backdrop-filter: (
     prefix: 'bg',
     responsive: false,
@@ -210,10 +216,28 @@ $feather-defaults: (
     values: ('color': currentColor)
   ),
 
+  background-attachment: (
+    prefix: 'bg',
+    responsive: false,
+    values: (fixed, local, scroll)
+  ),
+
   background-image: (
     prefix: 'bg',
-    responsive: true,
+    responsive: false,
     values: (none)
+  ),
+
+  background-repeat: (
+    prefix: 'bg',
+    responsive: false,
+    values: (repeat, no-repeat, repeat-x, repeat-y)
+  ),
+
+  background-size: (
+    prefix: 'bg',
+    responsive: false,
+    values: (auto, cover, contain)
   ),
 
   border-collapse: (

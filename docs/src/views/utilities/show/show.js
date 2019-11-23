@@ -8,6 +8,10 @@ export default {
     title() {
       return this.utility.name.replace(/-/g, ' ')
     },
+
+    prefix() {
+      return this.utility.prefix || this.utility.name
+    },
   },
 
   methods: {
@@ -20,7 +24,7 @@ export default {
 
     className(value) {
       let name = []
-      if (this.utility.prefix) name.push(`${this.utility.prefix}-`)
+      if (this.utility.prefix !== null) name.push(`${this.prefix}-`)
       name.push(value.name ? value.name : value)
       return name.join('')
     },

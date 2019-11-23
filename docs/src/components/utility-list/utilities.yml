@@ -27,6 +27,8 @@
 
 - name: appearance
   utilities:
+    - name: appearance
+      values: [none]
     - name: display
     - name: filter
     - name: opacity
@@ -50,9 +52,20 @@
           value: currentColor
 
     - name: background-attachment
+      prefix: bg
+      values: [fixed, local, scroll]
+
     - name: background-image
+      prefix: bg
+      values: [none]
+
     - name: background-repeat
+      prefix: bg
+      values: [repeat, no-repeat, repeat-x, repeat-y]
+
     - name: background-size
+      prefix: bg
+      values: [auto, cover, contain]
 
 - name: borders
   utilities:
@@ -86,6 +99,8 @@
   utilities:
     - name: cursor
     - name: pointer-events
+      prefix: click
+      values: [none, auto]
     - name: user-select
 
 - name: layout
@@ -121,6 +136,7 @@
 - name: typography
   utilities:
     - name: color
+      prefix: null
       values:
         - name: transparent
         - name: black

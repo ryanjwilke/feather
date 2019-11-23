@@ -1,5 +1,2 @@
 app: font-default
-content: >
-  relative
-  pin-t-64 lg:pin-l-280
-  p-16 lg:p-32
+content: relative pin-t-72 lg:pin-l-320 p-t-32

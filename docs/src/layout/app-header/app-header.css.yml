@@ -1,7 +1,15 @@
-header: >
-  fixed pin-t-0 pin-l-0 pin-r-0
-  bg-color white z-100
-  h-64 leading-64
-  p-l-16 p-r-16 lg:p-l-32 lg:p-r-32
-border: border border-thin border-b-solid border-color gray-200
+header:
+  classes: >
+    fixed pin-t-0 pin-l-0 pin-r-0
+    bg-color white z-100
+    h-72 leading-72
+    p-l-16 p-r-16 lg:p-l-32 lg:p-r-32
+    border border-thin border-b-solid border-color
+  style: 'border-color: var(--gray-200)'
 logo: gray-800 text-24 medium
+form: >
+  bg-color gray-200 rounded-4 border border-solid border-thin h-40 w-400
+  absolute pin-l-320 pin-t-16
+input: >
+  w-100% appearance-none appearance-none block border-none font-default
+  gray-500 text-16 indent-16 h-40 outline-none

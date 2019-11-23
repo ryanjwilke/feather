@@ -1,6 +1,6 @@
 <template>
-  <li>
-    <router-link :to="url" :class="css.link">
+  <li :class="itemClasses">
+    <router-link :to="url" :class="linkClasses">
       {{ utility.name }}
     </router-link>
   </li>
