@@ -7,7 +7,11 @@ export default {
 
   computed: {
     url() {
-      return `/utilities/${this.utility.name}`
+      return `/utilities/${this.slug}`
+    },
+
+    slug() {
+      return this.utility.slug || this.utility.name
     },
   },
 

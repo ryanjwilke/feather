@@ -207,7 +207,10 @@ $feather-defaults: (
   background-color: (
     prefix: 'bg',
     responsive: false,
-    values: ('color': currentColor)
+    values: (
+      'color': currentColor,
+      '\\$color': var(--bg-color)
+    )
   ),
 
   background-image: (
@@ -231,7 +234,10 @@ $feather-defaults: (
   border-color: (
     prefix: 'border',
     responsive: false,
-    values: ('color': currentColor)
+    values: (
+      'color': currentColor,
+      '\\$color': var(--border-color)
+    )
   ),
 
   border-style: (
