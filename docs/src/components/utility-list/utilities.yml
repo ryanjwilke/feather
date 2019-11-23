@@ -125,6 +125,7 @@
 - name: typography
   utilities:
     - name: color
+      prefix: null
       values:
         - name: transparent
         - name: black
