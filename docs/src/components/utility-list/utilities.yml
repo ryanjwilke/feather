@@ -69,13 +69,34 @@
 
 - name: borders
   utilities:
+    - name: border-collapse
+      prefix: border
+      values: [collapse, separate]
     - name: border-color
       prefix: border
       values:
         - name: color
           value: currentColor
-
     - name: border-radius
+      prefix: rounded
+      values:
+        - name: '0'
+          value: 0px
+        - name: '1'
+          value: 1px
+        - name: '2'
+          value: 2px
+        - name: '3'
+          value: 3px
+        - name: '4'
+          value: 4px
+        - name: '5'
+          value: 5px
+        - name: pill
+          value: 1000px
+    - name: border-spacing
+      prefix: spacing
+      values: [2px, 4px, 8px, 16px]
     - name: border-style
       prefix: border
       responsive: true
@@ -92,6 +113,14 @@
         - y: [top, bottom]
       values: [solid, none]
     - name: border-width
+      prefix: border
+      values:
+        - name: none
+          value: 0
+        - name: thin
+          value: 1px
+        - name: thick
+          value: 2px
 
 - name: grid
   utilities:
