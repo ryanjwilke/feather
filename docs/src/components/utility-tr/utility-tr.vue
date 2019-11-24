@@ -1,10 +1,12 @@
 <template>
   <tr :class="[css.tr.base, css.tr.body]">
     <td :class="[css.td, css.class_name]">
-      .{{ cssClassName }}
+      .{{ className }}
     </td>
     <td :class="[css.td, css.properties]">
-      {{ property }}: {{ value }}
+      <span v-for="(property, index) in properties" :key="index" class="block">
+        {{ property }}: {{ value }}
+      </span>
     </td>
   </tr>
 </template>

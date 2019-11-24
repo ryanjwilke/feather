@@ -4,7 +4,7 @@ subtitle: normal gray-500 text-16
 
 table: w-100% border-collapse m-t-32
 thead: bg-color gray-100 text-14 leading-32
-tbody: font-monospace text-14 leading-24
+tbody: font-monospace text-14 leading-24 v-align-top
 tr:
   base: border border-t-solid border-b-solid border-thin
   head: border-$color
