@@ -77,6 +77,13 @@
 
     - name: border-radius
     - name: border-style
+      prefix: border
+      responsive: true
+      states: [last-child]
+      variants:
+        - t: top
+        - b: bottom
+      values: [solid, none]
     - name: border-width
 
 - name: grid

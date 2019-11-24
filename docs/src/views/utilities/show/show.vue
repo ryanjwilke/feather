@@ -17,14 +17,18 @@
         </tr>
       </thead>
       <tbody :class="css.tbody">
-        <tr v-for="(value, index) in utility.values" :key="index" :class="[css.tr.base, css.tr.body]">
-          <td :class="[css.td, css.class_name]">
-            .{{ className(value) }}
-          </td>
-          <td :class="[css.td, css.properties]">
-            {{ utility.name }}: {{ value.value || value.name || value }}
-          </td>
-        </tr>
+        <template v-for="(value, index) in utility.values">
+          <utility-tr :utility="utility" :css-value="value" :key="index" />
+          <template v-for="(variant, vIndex) in utility.variants">
+            <utility-tr
+              v-for="(vName, vKey) in variant"
+              :key="variantKey(index, vIndex, vKey, value)"
+              :utility="utility"
+              :variant-key="vKey"
+              :variant-name="vName"
+              :css-value="value" />
+          </template>
+        </template>
       </tbody>
     </table>
   </div>

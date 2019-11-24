@@ -1,8 +1,11 @@
 import css from './show.css.yml'
 import groups from '@/components/utility-list/utilities.yml'
+import UtilityTr from '@/components/utility-tr/utility-tr.vue'
 
 export default {
   name: 'utilities-show',
+
+  components: { UtilityTr },
 
   computed: {
     title() {
@@ -22,11 +25,8 @@ export default {
       if (!this.utility) this.$router.push('/404')
     },
 
-    className(value) {
-      let name = []
-      if (this.utility.prefix !== null) name.push(`${this.prefix}-`)
-      name.push(value.name ? value.name : value)
-      return name.join('')
+    variantKey(index, vIndex, vName) {
+      return `${index}-${vIndex}-${vName}`
     },
   },
 
