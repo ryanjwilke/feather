@@ -1,0 +1,3568 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UtilityTable renders the align-items utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the animation-delay utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="300ms"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="600ms"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="900ms"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the animation-direction utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="reverse"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="alternate"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="alternate-reverse"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the animation-duration utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="300ms"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="600ms"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="900ms"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the animation-fill-mode utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="none"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="forwards"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="backwards"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the animation-iteration-count utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="infinite"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the animation-name utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="inherit"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the animation-timing-function utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="linear"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="ease"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="ease-in"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="ease-out"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the appearance utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="none"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the backdrop-filter utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the background utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="none"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the background-attachment utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="fixed"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="local"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="scroll"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the background-color utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the background-image utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="none"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the background-repeat utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="repeat"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="no-repeat"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="repeat-x"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="repeat-y"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the background-size utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="auto"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="cover"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="contain"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the border-collapse utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="collapse"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="separate"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the border-color utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the border-radius utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the border-spacing utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="2px"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="4px"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="8px"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="16px"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the border-style utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="solid"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="solid"
+      utility="[object Object]"
+      variantkey="t"
+      variantname="top"
+    />
+    <utility-row-stub
+      cssvalue="solid"
+      utility="[object Object]"
+      variantkey="b"
+      variantname="bottom"
+    />
+    <utility-row-stub
+      cssvalue="solid"
+      utility="[object Object]"
+      variantkey="t"
+      variantname="top"
+    />
+    <utility-row-stub
+      cssvalue="solid"
+      utility="[object Object]"
+      variantkey="b"
+      variantname="bottom"
+    />
+    <utility-row-stub
+      cssvalue="solid"
+      utility="[object Object]"
+      variantkey="l"
+      variantname="left"
+    />
+    <utility-row-stub
+      cssvalue="solid"
+      utility="[object Object]"
+      variantkey="r"
+      variantname="right"
+    />
+    <utility-row-stub
+      cssvalue="solid"
+      utility="[object Object]"
+      variantkey="a"
+      variantname="top,bottom,left,right"
+    />
+    <utility-row-stub
+      cssvalue="solid"
+      utility="[object Object]"
+      variantkey="x"
+      variantname="left,right"
+    />
+    <utility-row-stub
+      cssvalue="solid"
+      utility="[object Object]"
+      variantkey="y"
+      variantname="top,bottom"
+    />
+    <utility-row-stub
+      cssvalue="none"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="none"
+      utility="[object Object]"
+      variantkey="t"
+      variantname="top"
+    />
+    <utility-row-stub
+      cssvalue="none"
+      utility="[object Object]"
+      variantkey="b"
+      variantname="bottom"
+    />
+    <utility-row-stub
+      cssvalue="none"
+      utility="[object Object]"
+      variantkey="t"
+      variantname="top"
+    />
+    <utility-row-stub
+      cssvalue="none"
+      utility="[object Object]"
+      variantkey="b"
+      variantname="bottom"
+    />
+    <utility-row-stub
+      cssvalue="none"
+      utility="[object Object]"
+      variantkey="l"
+      variantname="left"
+    />
+    <utility-row-stub
+      cssvalue="none"
+      utility="[object Object]"
+      variantkey="r"
+      variantname="right"
+    />
+    <utility-row-stub
+      cssvalue="none"
+      utility="[object Object]"
+      variantkey="a"
+      variantname="top,bottom,left,right"
+    />
+    <utility-row-stub
+      cssvalue="none"
+      utility="[object Object]"
+      variantkey="x"
+      variantname="left,right"
+    />
+    <utility-row-stub
+      cssvalue="none"
+      utility="[object Object]"
+      variantkey="y"
+      variantname="top,bottom"
+    />
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the border-width utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the box-shadow utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the color utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the cursor utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the display utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the fill utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the filter utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the flex-basis utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the flex-direction utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the flex-grow utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the flex-shrink utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the flex-wrap utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the float utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the font-family utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the font-size utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the font-style utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the font-weight utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the grid-column-gap utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the grid-row-end utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the grid-row-gap utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the grid-row-start utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the grid-template-columns utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the grid-template-rows utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the height utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the justify-content utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the line-clamp utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="1"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="2"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="3"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="4"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the line-height utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the list-style utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the margin utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the max-height utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the max-width utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the min-height utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the min-width utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the opacity utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the outline utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the overflow utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the padding utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the pointer-events utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="none"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="auto"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the position utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the stroke utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the stroke-linecap utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the stroke-linejoin utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the stroke-width utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the text-align utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the text-decoration utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the text-indent utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the text-overflow utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the text-shadow utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the text-transform utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the top, right, bottom, left utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the transform utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the transition utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  >
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+    <utility-row-stub
+      cssvalue="[object Object]"
+      utility="[object Object]"
+    />
+     
+  </tbody>
+</table>
+`;
+
+exports[`UtilityTable renders the user-select utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the vertical-align utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the visibility utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the white-space utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the width utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the will-change utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;
+
+exports[`UtilityTable renders the z-index utility documentation correctly 1`] = `
+<table
+  class="w-100% border-collapse m-t-32"
+>
+  <thead
+    class="bg-color gray-100 text-14 leading-32"
+  >
+    <tr
+      class="border border-t-solid border-b-solid border-thin border-$color"
+    >
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Class
+      </th>
+       
+      <th
+        class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
+        scope="col"
+      >
+        Properties
+      </th>
+    </tr>
+  </thead>
+   
+  <tbody
+    class="font-monospace text-14 leading-24 v-align-top"
+  />
+</table>
+`;

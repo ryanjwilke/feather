@@ -17,10 +17,6 @@ export default {
         ? this.utility.description
         : `Utilities for controlling an element's ${this.title}.`
     },
-
-    prefix() {
-      return this.utility.prefix || this.utility.name
-    },
   },
 
   methods: {
@@ -29,10 +25,6 @@ export default {
         return item.slug == name || item.name == name
       })
       if (!this.utility) this.$router.push('/404')
-    },
-
-    variantKey(index, vIndex, vName) {
-      return `${index}-${vIndex}-${vName}`
     },
   },
 
