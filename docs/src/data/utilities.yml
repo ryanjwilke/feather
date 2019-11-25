@@ -26,7 +26,7 @@
 
     - name: animation-iteration-count
       prefix: animate
-      values: infinite
+      values: [infinite]
 
     - name: transition
       prefix: ease
