@@ -5,7 +5,7 @@
     <utility-table
       :groups="groups"
       :utility="utility"
-      v-if="utility" />
+      v-if="utility && utility.values" />
   </div>
 </template>
 
