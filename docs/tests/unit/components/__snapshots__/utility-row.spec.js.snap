@@ -1,0 +1,4201 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UtilityRow renders the animation-delay utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .delay-300ms
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-delay: 300ms
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-delay utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .delay-600ms
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-delay: 600ms
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-delay utility documentation correctly 3`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .delay-900ms
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-delay: 900ms
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-direction utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .animate-reverse
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-direction: reverse
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-direction utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .animate-alternate
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-direction: alternate
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-direction utility documentation correctly 3`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .animate-alternate-reverse
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-direction: alternate-reverse
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-duration utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .animate-300ms
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-duration: 300ms
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-duration utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .animate-600ms
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-duration: 600ms
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-duration utility documentation correctly 3`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .animate-900ms
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-duration: 900ms
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-fill-mode utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .animate-fill-none
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-fill-mode: none
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-fill-mode utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .animate-fill-forwards
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-fill-mode: forwards
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-fill-mode utility documentation correctly 3`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .animate-fill-backwards
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-fill-mode: backwards
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-iteration-count utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .animate-infinite
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-iteration-count: infinite
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-name utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .animate-inherit
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-name: inherit
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-timing-function utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .animate-linear
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-timing-function: linear
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-timing-function utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .animate-ease
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-timing-function: ease
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-timing-function utility documentation correctly 3`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .animate-ease-in
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-timing-function: ease-in
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the animation-timing-function utility documentation correctly 4`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .animate-ease-out
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      animation-timing-function: ease-out
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the appearance utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .appearance-none
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      appearance: none
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the background utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .bg-none
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      background: none
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the background-attachment utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .bg-fixed
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      background-attachment: fixed
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the background-attachment utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .bg-local
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      background-attachment: local
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the background-attachment utility documentation correctly 3`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .bg-scroll
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      background-attachment: scroll
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the background-color utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .bg-color
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      background-color: currentColor
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the background-image utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .bg-none
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      background-image: none
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the background-repeat utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .bg-repeat
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      background-repeat: repeat
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the background-repeat utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .bg-no-repeat
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      background-repeat: no-repeat
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the background-repeat utility documentation correctly 3`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .bg-repeat-x
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      background-repeat: repeat-x
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the background-repeat utility documentation correctly 4`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .bg-repeat-y
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      background-repeat: repeat-y
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the background-size utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .bg-auto
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      background-size: auto
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the background-size utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .bg-cover
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      background-size: cover
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the background-size utility documentation correctly 3`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .bg-contain
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      background-size: contain
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-collapse utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .border-collapse
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-collapse: collapse
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-collapse utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .border-separate
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-collapse: separate
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-color utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .border-color
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-color: currentColor
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-radius utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .rounded-0
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-radius: 0px
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-radius utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .rounded-1
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-radius: 1px
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-radius utility documentation correctly 3`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .rounded-2
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-radius: 2px
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-radius utility documentation correctly 4`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .rounded-3
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-radius: 3px
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-radius utility documentation correctly 5`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .rounded-4
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-radius: 4px
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-radius utility documentation correctly 6`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .rounded-5
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-radius: 5px
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-radius utility documentation correctly 7`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .rounded-pill
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-radius: 1000px
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-spacing utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .spacing-2px
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-spacing: 2px
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-spacing utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .spacing-4px
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-spacing: 4px
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-spacing utility documentation correctly 3`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .spacing-8px
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-spacing: 8px
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-spacing utility documentation correctly 4`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .spacing-16px
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-spacing: 16px
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-style utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .border-solid
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-style: solid
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-style utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .border-none
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-style: none
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-width utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .border-none
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-width: none
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-width utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .border-thin
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-width: 1px
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the border-width utility documentation correctly 3`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .border-thick
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      border-width: 2px
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .transparent
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: transparent
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .black
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #000
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 3`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .black-900
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#000,.9)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 4`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .black-800
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#000,.8)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 5`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .black-700
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#000,.7)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 6`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .black-600
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#000,.6)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 7`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .black-500
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#000,.5)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 8`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .black-400
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#000,.4)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 9`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .black-300
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#000,.3)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 10`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .black-200
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#000,.2)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 11`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .black-100
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#000,.1)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 12`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .white
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #fff
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 13`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .white-900
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#fff,.9)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 14`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .white-800
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#fff,.8)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 15`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .white-700
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#fff,.7)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 16`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .white-600
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#fff,.6)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 17`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .white-500
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#fff,.5)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 18`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .white-400
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#fff,.4)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 19`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .white-300
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#fff,.3)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 20`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .white-200
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#fff,.2)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 21`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .white-100
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: rgba(#fff,.1)
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 22`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .gray-100
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #f7fafc
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 23`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .gray-200
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #edf2f7
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 24`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .gray-300
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #e2e8f0
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 25`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .gray-400
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #cbd5e0
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 26`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .gray-500
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #a0aec0
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 27`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .gray-600
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #718096
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 28`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .gray-700
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #4a5568
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 29`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .gray-800
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #2d3748
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 30`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .gray-900
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #1a202c
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 31`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .red-100
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #fff5f5
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 32`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .red-200
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #fed7d7
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 33`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .red-300
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #feb2b2
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 34`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .red-400
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #fc8181
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 35`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .red-500
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #f56565
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 36`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .red-600
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #e53e3e
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 37`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .red-700
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #c53030
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 38`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .red-800
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #9b2c2c
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 39`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .red-900
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #742a2a
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 40`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .orange-100
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #fffaf0
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 41`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .orange-200
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #feebc8
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 42`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .orange-300
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #fbd38d
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 43`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .orange-400
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #f6ad55
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 44`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .orange-500
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #ed8936
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 45`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .orange-600
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #dd6b20
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 46`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .orange-700
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #c05621
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 47`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .orange-800
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #9c4221
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 48`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .orange-900
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #7b341e
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 49`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .yellow-100
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #fffff0
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 50`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .yellow-200
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #fefcbf
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 51`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .yellow-300
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #faf089
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 52`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .yellow-400
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #f6e05e
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 53`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .yellow-500
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #ecc94b
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 54`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .yellow-600
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #d69e2e
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 55`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .yellow-700
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #b7791f
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 56`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .yellow-800
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #975a16
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 57`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .yellow-900
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #744210
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 58`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .green-100
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #f0fff4
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 59`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .green-200
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #c6f6d5
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 60`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .green-300
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #9ae6b4
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 61`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .green-400
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #68d391
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 62`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .green-500
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #48bb78
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 63`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .green-600
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #38a169
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 64`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .green-700
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #2f855a
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 65`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .green-800
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #276749
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 66`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .green-900
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #22543d
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 67`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .teal-100
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #e6fffa
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 68`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .teal-200
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #b2f5ea
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 69`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .teal-300
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #81e6d9
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 70`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .teal-400
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #4fd1c5
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 71`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .teal-500
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #38b2ac
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 72`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .teal-600
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #319795
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 73`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .teal-700
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #2c7a7b
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 74`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .teal-800
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #285e61
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 75`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .teal-900
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #234e52
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 76`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .blue-100
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #ebf8ff
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 77`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .blue-200
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #bee3f8
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 78`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .blue-300
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #90cdf4
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 79`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .blue-400
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #63b3ed
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 80`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .blue-500
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #4299e1
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 81`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .blue-600
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #3182ce
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 82`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .blue-700
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #2b6cb0
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 83`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .blue-800
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #2c5282
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 84`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .blue-900
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #2a4365
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 85`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .indigo-100
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #ebf4ff
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 86`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .indigo-200
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #c3dafe
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 87`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .indigo-300
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #a3bffa
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 88`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .indigo-400
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #7f9cf5
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 89`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .indigo-500
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #667eea
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 90`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .indigo-600
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #5a67d8
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 91`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .indigo-700
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #4c51bf
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 92`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .indigo-800
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #434190
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 93`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .indigo-900
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #3c366b
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 94`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .purple-100
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #faf5ff
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 95`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .purple-200
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #e9d8fd
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 96`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .purple-300
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #d6bcfa
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 97`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .purple-400
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #b794f4
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 98`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .purple-500
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #9f7aea
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 99`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .purple-600
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #805ad5
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 100`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .purple-700
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #6b46c1
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 101`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .purple-800
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #553c9a
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 102`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .purple-900
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #44337a
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 103`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .pink-100
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #fff5f7
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 104`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .pink-200
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #fed7e2
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 105`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .pink-300
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #fbb6ce
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 106`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .pink-400
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #f687b3
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 107`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .pink-500
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #ed64a6
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 108`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .pink-600
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #d53f8c
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 109`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .pink-700
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #b83280
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 110`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .pink-800
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #97266d
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the color utility documentation correctly 111`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .pink-900
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      color: #702459
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the line-clamp utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .line-clamp-1
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      line-clamp: 1
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the line-clamp utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .line-clamp-2
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      line-clamp: 2
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the line-clamp utility documentation correctly 3`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .line-clamp-3
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      line-clamp: 3
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the line-clamp utility documentation correctly 4`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .line-clamp-4
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      line-clamp: 4
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the pointer-events utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .click-none
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      pointer-events: none
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the pointer-events utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .click-auto
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      pointer-events: auto
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the transition utility documentation correctly 1`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .ease-0ms
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      transition: none
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the transition utility documentation correctly 2`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .ease-150ms
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      transition: all 150ms ease
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the transition utility documentation correctly 3`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .ease-300ms
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      transition: all 300ms ease
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the transition utility documentation correctly 4`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .ease-600ms
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      transition: all 600ms ease
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the transition utility documentation correctly 5`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .ease-out-150ms
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      transition: all 150ms ease-out
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the transition utility documentation correctly 6`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .ease-out-300ms
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      transition: all 300ms ease-out
+    
+    </span>
+  </td>
+</tr>
+`;
+
+exports[`UtilityRow renders the transition utility documentation correctly 7`] = `
+<tr
+  class="border border-t-solid border-b-solid border-thin border-color gray-200"
+>
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
+  >
+    .ease-out-600ms
+  </td>
+   
+  <td
+    class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
+  >
+    <span
+      class="block"
+    >
+      
+      transition: all 600ms ease-out
+    
+    </span>
+  </td>
+</tr>
+`;
