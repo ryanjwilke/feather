@@ -12,7 +12,7 @@
         <template v-for="(variant, vIndex) in utility.variants">
           <utility-row
             v-for="(vName, vKey) in variant"
-            :key="variantKey(index, vIndex, vKey, value)"
+            :key="variantKey(index, vIndex, vKey)"
             :utility="utility"
             :variant-key="vKey"
             :variant-name="vName"
