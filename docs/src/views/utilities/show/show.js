@@ -1,15 +1,21 @@
 import css from './show.css.yml'
-import groups from '@/components/utility-list/utilities.yml'
-import UtilityTr from '@/components/utility-tr/utility-tr.vue'
+import groups from '@/data/utilities.yml'
+import UtilityTable from '@/components/utility-table/utility-table.vue'
 
 export default {
   name: 'utilities-show',
 
-  components: { UtilityTr },
+  components: { UtilityTable },
 
   computed: {
     title() {
       return this.utility.name.replace(/-/g, ' ')
+    },
+
+    subtitle() {
+      return this.utility.description
+        ? this.utility.description
+        : `Utilities for controlling an element's ${this.title}.`
     },
 
     prefix() {
