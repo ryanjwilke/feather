@@ -6,12 +6,6 @@ export default {
 
   components: { UtilityRow },
 
-  methods: {
-    variantKey(index, vIndex, vName) {
-      return `${index}-${vIndex}-${vName}`
-    },
-  },
-
   props: {
     utility: {
       type: Object,

@@ -8,11 +8,11 @@
     </thead>
     <tbody :class="css.tbody">
       <template v-for="(value, index) in utility.values">
-        <utility-row :utility="utility" :css-value="value" :key="index" />
+        <utility-row :utility="utility" :css-value="value" :key="`row-${index}`" />
         <template v-for="(variant, vIndex) in utility.variants">
           <utility-row
             v-for="(vName, vKey) in variant"
-            :key="variantKey(index, vIndex, vKey)"
+            :key="`row-${index}-${vIndex}-${vKey}`"
             :utility="utility"
             :variant-key="vKey"
             :variant-name="vName"
