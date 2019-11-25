@@ -21,8 +21,31 @@
       values: [linear, ease, ease-in, ease-out]
 
     - name: animation-fill-mode
+      prefix: animate-fill
+      values: [none, forwards, backwards]
+
     - name: animation-iteration-count
+      prefix: animate
+      values: [infinite]
+
     - name: transition
+      prefix: ease
+      values:
+        - name: 0ms
+          value: none
+        - name: 150ms
+          value: all 150ms ease
+        - name: 300ms
+          value: all 300ms ease
+        - name: 600ms
+          value: all 600ms ease
+        - name: out-150ms
+          value: all 150ms ease-out
+        - name: out-300ms
+          value: all 300ms ease-out
+        - name: out-600ms
+          value: all 600ms ease-out
+
     - name: will-change
 
 - name: appearance
@@ -69,15 +92,58 @@
 
 - name: borders
   utilities:
+    - name: border-collapse
+      prefix: border
+      values: [collapse, separate]
     - name: border-color
       prefix: border
       values:
         - name: color
           value: currentColor
-
     - name: border-radius
+      prefix: rounded
+      values:
+        - name: '0'
+          value: 0px
+        - name: '1'
+          value: 1px
+        - name: '2'
+          value: 2px
+        - name: '3'
+          value: 3px
+        - name: '4'
+          value: 4px
+        - name: '5'
+          value: 5px
+        - name: pill
+          value: 1000px
+    - name: border-spacing
+      prefix: spacing
+      values: [2px, 4px, 8px, 16px]
     - name: border-style
+      prefix: border
+      responsive: true
+      states: [last-child]
+      variants:
+        - t: top
+        - b: bottom
+        - t: top
+        - b: bottom
+        - l: left
+        - r: right
+        - a: [top, bottom, left, right]
+        - x: [left, right]
+        - y: [top, bottom]
+      values: [solid, none]
     - name: border-width
+      prefix: border
+      values:
+        - name: none
+          value: 0
+        - name: thin
+          value: 1px
+        - name: thick
+          value: 2px
 
 - name: grid
   utilities:

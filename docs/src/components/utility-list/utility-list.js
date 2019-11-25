@@ -1,5 +1,5 @@
 import css from './utility-list.css.yml'
-import groups from './utilities.yml'
+import groups from '@/data/utilities.yml'
 import UtilityGroup from '@/components/utility-group/utility-group.vue'
 
 export default {

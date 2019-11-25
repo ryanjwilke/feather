@@ -1,16 +1,21 @@
 import css from './show.css.yml'
-import groups from '@/components/utility-list/utilities.yml'
+import groups from '@/data/utilities.yml'
+import UtilityTable from '@/components/utility-table/utility-table.vue'
 
 export default {
   name: 'utilities-show',
+
+  components: { UtilityTable },
 
   computed: {
     title() {
       return this.utility.name.replace(/-/g, ' ')
     },
 
-    prefix() {
-      return this.utility.prefix || this.utility.name
+    subtitle() {
+      return this.utility.description
+        ? this.utility.description
+        : `Utilities for controlling an element's ${this.title}.`
     },
   },
 
@@ -20,13 +25,6 @@ export default {
         return item.slug == name || item.name == name
       })
       if (!this.utility) this.$router.push('/404')
-    },
-
-    className(value) {
-      let name = []
-      if (this.utility.prefix !== null) name.push(`${this.prefix}-`)
-      name.push(value.name ? value.name : value)
-      return name.join('')
     },
   },
 

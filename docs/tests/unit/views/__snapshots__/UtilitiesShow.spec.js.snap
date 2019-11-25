@@ -1,5 +1,275 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`UtilitiesShow renders the align-items utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    align items
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's align items.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the animation-delay utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    animation delay
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's animation delay.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the animation-direction utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    animation direction
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's animation direction.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the animation-duration utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    animation duration
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's animation duration.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the animation-fill-mode utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    animation fill mode
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's animation fill mode.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the animation-iteration-count utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    animation iteration count
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's animation iteration count.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the animation-name utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    animation name
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's animation name.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the animation-timing-function utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    animation timing function
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's animation timing function.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the appearance utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    appearance
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's appearance.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the backdrop-filter utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    backdrop filter
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's backdrop filter.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the background utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    background
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's background.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the background-attachment utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    background attachment
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's background attachment.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
 exports[`UtilitiesShow renders the background-color utility documentation correctly 1`] = `
 <div
   class="align-left"
@@ -13,60 +283,240 @@ exports[`UtilitiesShow renders the background-color utility documentation correc
   <h2
     class="normal gray-500 text-16"
   >
-    
-      Utilities for controlling an element's background color.
-    
+    Utilities for controlling an element's background color.
   </h2>
    
-  <table
-    class="w-100% border-collapse m-t-32"
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the background-image utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
   >
-    <thead
-      class="bg-color gray-100 text-14 leading-32"
-    >
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-$color"
-      >
-        <th
-          class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
-          scope="col"
-        >
-          Class
-        </th>
-         
-        <th
-          class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
-          scope="col"
-        >
-          Properties
-        </th>
-      </tr>
-    </thead>
-     
-    <tbody
-      class="font-monospace text-14 leading-24"
-    >
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .bg-color
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          background-color: currentColor
-        
-        </td>
-      </tr>
-    </tbody>
-  </table>
+    background image
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's background image.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the background-repeat utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    background repeat
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's background repeat.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the background-size utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    background size
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's background size.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the border-collapse utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    border collapse
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's border collapse.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the border-color utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    border color
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's border color.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the border-radius utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    border radius
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's border radius.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the border-spacing utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    border spacing
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's border spacing.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the border-style utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    border style
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's border style.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the border-width utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    border width
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's border width.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the box-shadow utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    box shadow
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's box shadow.
+  </h2>
+   
+  <!---->
 </div>
 `;
 
@@ -83,2149 +533,1141 @@ exports[`UtilitiesShow renders the color utility documentation correctly 1`] = `
   <h2
     class="normal gray-500 text-16"
   >
-    
-      Utilities for controlling an element's color.
-    
+    Utilities for controlling an element's color.
   </h2>
    
-  <table
-    class="w-100% border-collapse m-t-32"
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the cursor utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
   >
-    <thead
-      class="bg-color gray-100 text-14 leading-32"
-    >
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-$color"
-      >
-        <th
-          class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
-          scope="col"
-        >
-          Class
-        </th>
-         
-        <th
-          class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
-          scope="col"
-        >
-          Properties
-        </th>
-      </tr>
-    </thead>
-     
-    <tbody
-      class="font-monospace text-14 leading-24"
-    >
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .transparent
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: transparent
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .black
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #000
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .black-900
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#000,.9)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .black-800
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#000,.8)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .black-700
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#000,.7)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .black-600
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#000,.6)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .black-500
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#000,.5)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .black-400
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#000,.4)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .black-300
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#000,.3)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .black-200
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#000,.2)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .black-100
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#000,.1)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .white
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #fff
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .white-900
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#fff,.9)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .white-800
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#fff,.8)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .white-700
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#fff,.7)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .white-600
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#fff,.6)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .white-500
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#fff,.5)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .white-400
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#fff,.4)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .white-300
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#fff,.3)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .white-200
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#fff,.2)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .white-100
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: rgba(#fff,.1)
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .gray-100
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #f7fafc
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .gray-200
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #edf2f7
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .gray-300
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #e2e8f0
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .gray-400
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #cbd5e0
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .gray-500
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #a0aec0
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .gray-600
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #718096
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .gray-700
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #4a5568
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .gray-800
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #2d3748
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .gray-900
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #1a202c
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .red-100
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #fff5f5
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .red-200
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #fed7d7
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .red-300
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #feb2b2
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .red-400
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #fc8181
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .red-500
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #f56565
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .red-600
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #e53e3e
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .red-700
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #c53030
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .red-800
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #9b2c2c
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .red-900
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #742a2a
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .orange-100
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #fffaf0
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .orange-200
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #feebc8
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .orange-300
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #fbd38d
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .orange-400
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #f6ad55
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .orange-500
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #ed8936
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .orange-600
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #dd6b20
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .orange-700
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #c05621
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .orange-800
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #9c4221
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .orange-900
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #7b341e
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .yellow-100
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #fffff0
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .yellow-200
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #fefcbf
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .yellow-300
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #faf089
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .yellow-400
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #f6e05e
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .yellow-500
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #ecc94b
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .yellow-600
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #d69e2e
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .yellow-700
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #b7791f
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .yellow-800
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #975a16
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .yellow-900
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #744210
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .green-100
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #f0fff4
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .green-200
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #c6f6d5
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .green-300
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #9ae6b4
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .green-400
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #68d391
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .green-500
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #48bb78
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .green-600
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #38a169
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .green-700
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #2f855a
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .green-800
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #276749
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .green-900
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #22543d
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .teal-100
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #e6fffa
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .teal-200
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #b2f5ea
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .teal-300
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #81e6d9
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .teal-400
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #4fd1c5
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .teal-500
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #38b2ac
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .teal-600
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #319795
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .teal-700
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #2c7a7b
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .teal-800
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #285e61
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .teal-900
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #234e52
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .blue-100
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #ebf8ff
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .blue-200
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #bee3f8
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .blue-300
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #90cdf4
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .blue-400
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #63b3ed
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .blue-500
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #4299e1
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .blue-600
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #3182ce
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .blue-700
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #2b6cb0
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .blue-800
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #2c5282
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .blue-900
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #2a4365
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .indigo-100
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #ebf4ff
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .indigo-200
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #c3dafe
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .indigo-300
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #a3bffa
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .indigo-400
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #7f9cf5
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .indigo-500
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #667eea
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .indigo-600
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #5a67d8
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .indigo-700
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #4c51bf
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .indigo-800
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #434190
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .indigo-900
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #3c366b
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .purple-100
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #faf5ff
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .purple-200
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #e9d8fd
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .purple-300
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #d6bcfa
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .purple-400
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #b794f4
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .purple-500
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #9f7aea
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .purple-600
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #805ad5
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .purple-700
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #6b46c1
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .purple-800
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #553c9a
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .purple-900
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #44337a
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .pink-100
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #fff5f7
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .pink-200
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #fed7e2
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .pink-300
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #fbb6ce
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .pink-400
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #f687b3
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .pink-500
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #ed64a6
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .pink-600
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #d53f8c
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .pink-700
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #b83280
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .pink-800
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #97266d
-        
-        </td>
-      </tr>
-      <tr
-        class="border border-t-solid border-b-solid border-thin border-color gray-200"
-      >
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 purple-600 w-280"
-        >
-          
-          .pink-900
-        
-        </td>
-         
-        <td
-          class="p-t-8 p-b-8 p-l-16 p-r-16 blue-700"
-        >
-          
-          color: #702459
-        
-        </td>
-      </tr>
-    </tbody>
-  </table>
+    cursor
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's cursor.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the display utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    display
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's display.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the fill utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    fill
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's fill.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the filter utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    filter
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's filter.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the flex-basis utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    flex basis
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's flex basis.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the flex-direction utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    flex direction
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's flex direction.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the flex-grow utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    flex grow
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's flex grow.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the flex-shrink utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    flex shrink
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's flex shrink.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the flex-wrap utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    flex wrap
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's flex wrap.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the float utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    float
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's float.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the font-family utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    font family
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's font family.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the font-size utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    font size
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's font size.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the font-style utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    font style
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's font style.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the font-weight utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    font weight
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's font weight.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the grid-column-gap utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    grid column gap
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's grid column gap.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the grid-row-end utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    grid row end
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's grid row end.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the grid-row-gap utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    grid row gap
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's grid row gap.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the grid-row-start utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    grid row start
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's grid row start.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the grid-template-columns utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    grid template columns
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's grid template columns.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the grid-template-rows utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    grid template rows
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's grid template rows.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the height utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    height
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's height.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the justify-content utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    justify content
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's justify content.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the line-clamp utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    line clamp
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    An non-standard utility for truncating text which is currently available for WebKit only.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the line-height utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    line height
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's line height.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the list-style utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    list style
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's list style.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the margin utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    margin
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's margin.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the max-height utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    max height
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's max height.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the max-width utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    max width
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's max width.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the min-height utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    min height
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's min height.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the min-width utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    min width
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's min width.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the opacity utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    opacity
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's opacity.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the outline utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    outline
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's outline.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the overflow utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    overflow
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's overflow.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the padding utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    padding
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's padding.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the pointer-events utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    pointer events
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's pointer events.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the position utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    position
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's position.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the stroke utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    stroke
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's stroke.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the stroke-linecap utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    stroke linecap
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's stroke linecap.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the stroke-linejoin utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    stroke linejoin
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's stroke linejoin.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the stroke-width utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    stroke width
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's stroke width.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the text-align utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    text align
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's text align.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the text-decoration utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    text decoration
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's text decoration.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the text-indent utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    text indent
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's text indent.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the text-overflow utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    text overflow
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's text overflow.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the text-shadow utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    text shadow
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's text shadow.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the text-transform utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    text transform
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's text transform.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the top, right, bottom, left utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    top, right, bottom, left
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's top, right, bottom, left.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the transform utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    transform
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's transform.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the transition utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    transition
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's transition.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the user-select utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    user select
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's user select.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the vertical-align utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    vertical align
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's vertical align.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the visibility utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    visibility
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's visibility.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the white-space utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    white space
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's white space.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the width utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    width
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's width.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the will-change utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    will change
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's will change.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the z-index utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    z index
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's z index.
+  </h2>
+   
+  <!---->
 </div>
 `;

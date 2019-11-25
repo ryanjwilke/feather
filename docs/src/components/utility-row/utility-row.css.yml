@@ -1,0 +1,10 @@
+tr:
+  base: border border-t-solid border-b-solid border-thin
+  head: border-$color
+  body: border-color gray-200
+td:
+  base: p-t-8 p-b-8 p-l-16 p-r-16
+  class_name: purple-600 w-280
+  property:
+    list: blue-700
+    item: block
