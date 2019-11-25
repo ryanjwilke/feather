@@ -1,9 +1,9 @@
 <template>
   <table :class="css.table">
-    <thead :class="css.thead">
-      <tr :class="[css.tr.base, css.tr.head]" :style="css.tr.style">
-        <th :class="css.th" scope="col">Class</th>
-        <th :class="css.th" scope="col">Properties</th>
+    <thead :class="css.thead.base">
+      <tr :class="css.thead.tr">
+        <th :class="css.thead.th" scope="col">Class</th>
+        <th :class="css.thead.th" scope="col">Properties</th>
       </tr>
     </thead>
     <tbody :class="css.tbody">

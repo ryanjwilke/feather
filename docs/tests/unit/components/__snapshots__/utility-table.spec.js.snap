@@ -8,7 +8,7 @@ exports[`UtilityTable renders the align-items utility documentation correctly 1`
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -40,7 +40,7 @@ exports[`UtilityTable renders the animation-delay utility documentation correctl
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -88,7 +88,7 @@ exports[`UtilityTable renders the animation-direction utility documentation corr
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -136,7 +136,7 @@ exports[`UtilityTable renders the animation-duration utility documentation corre
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -184,7 +184,7 @@ exports[`UtilityTable renders the animation-fill-mode utility documentation corr
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -232,7 +232,7 @@ exports[`UtilityTable renders the animation-iteration-count utility documentatio
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -270,7 +270,7 @@ exports[`UtilityTable renders the animation-name utility documentation correctly
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -308,7 +308,7 @@ exports[`UtilityTable renders the animation-timing-function utility documentatio
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -361,7 +361,7 @@ exports[`UtilityTable renders the appearance utility documentation correctly 1`]
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -399,7 +399,7 @@ exports[`UtilityTable renders the backdrop-filter utility documentation correctl
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -431,7 +431,7 @@ exports[`UtilityTable renders the background utility documentation correctly 1`]
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -469,7 +469,7 @@ exports[`UtilityTable renders the background-attachment utility documentation co
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -517,7 +517,7 @@ exports[`UtilityTable renders the background-color utility documentation correct
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -555,7 +555,7 @@ exports[`UtilityTable renders the background-image utility documentation correct
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -593,7 +593,7 @@ exports[`UtilityTable renders the background-repeat utility documentation correc
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -646,7 +646,7 @@ exports[`UtilityTable renders the background-size utility documentation correctl
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -694,7 +694,7 @@ exports[`UtilityTable renders the border-collapse utility documentation correctl
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -737,7 +737,7 @@ exports[`UtilityTable renders the border-color utility documentation correctly 1
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -775,7 +775,7 @@ exports[`UtilityTable renders the border-radius utility documentation correctly 
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -843,7 +843,7 @@ exports[`UtilityTable renders the border-spacing utility documentation correctly
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -896,7 +896,7 @@ exports[`UtilityTable renders the border-style utility documentation correctly 1
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -1047,7 +1047,7 @@ exports[`UtilityTable renders the border-width utility documentation correctly 1
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -1095,7 +1095,7 @@ exports[`UtilityTable renders the box-shadow utility documentation correctly 1`]
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -1127,7 +1127,7 @@ exports[`UtilityTable renders the color utility documentation correctly 1`] = `
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -1715,7 +1715,7 @@ exports[`UtilityTable renders the cursor utility documentation correctly 1`] = `
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -1747,7 +1747,7 @@ exports[`UtilityTable renders the display utility documentation correctly 1`] = 
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -1779,7 +1779,7 @@ exports[`UtilityTable renders the fill utility documentation correctly 1`] = `
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -1811,7 +1811,7 @@ exports[`UtilityTable renders the filter utility documentation correctly 1`] = `
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -1843,7 +1843,7 @@ exports[`UtilityTable renders the flex-basis utility documentation correctly 1`]
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -1875,7 +1875,7 @@ exports[`UtilityTable renders the flex-direction utility documentation correctly
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -1907,7 +1907,7 @@ exports[`UtilityTable renders the flex-grow utility documentation correctly 1`] 
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -1939,7 +1939,7 @@ exports[`UtilityTable renders the flex-shrink utility documentation correctly 1`
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -1971,7 +1971,7 @@ exports[`UtilityTable renders the flex-wrap utility documentation correctly 1`] 
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2003,7 +2003,7 @@ exports[`UtilityTable renders the float utility documentation correctly 1`] = `
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2035,7 +2035,7 @@ exports[`UtilityTable renders the font-family utility documentation correctly 1`
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2067,7 +2067,7 @@ exports[`UtilityTable renders the font-size utility documentation correctly 1`] 
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2099,7 +2099,7 @@ exports[`UtilityTable renders the font-style utility documentation correctly 1`]
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2131,7 +2131,7 @@ exports[`UtilityTable renders the font-weight utility documentation correctly 1`
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2163,7 +2163,7 @@ exports[`UtilityTable renders the grid-column-gap utility documentation correctl
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2195,7 +2195,7 @@ exports[`UtilityTable renders the grid-row-end utility documentation correctly 1
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2227,7 +2227,7 @@ exports[`UtilityTable renders the grid-row-gap utility documentation correctly 1
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2259,7 +2259,7 @@ exports[`UtilityTable renders the grid-row-start utility documentation correctly
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2291,7 +2291,7 @@ exports[`UtilityTable renders the grid-template-columns utility documentation co
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2323,7 +2323,7 @@ exports[`UtilityTable renders the grid-template-rows utility documentation corre
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2355,7 +2355,7 @@ exports[`UtilityTable renders the height utility documentation correctly 1`] = `
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2387,7 +2387,7 @@ exports[`UtilityTable renders the justify-content utility documentation correctl
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2419,7 +2419,7 @@ exports[`UtilityTable renders the line-clamp utility documentation correctly 1`]
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2472,7 +2472,7 @@ exports[`UtilityTable renders the line-height utility documentation correctly 1`
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2504,7 +2504,7 @@ exports[`UtilityTable renders the list-style utility documentation correctly 1`]
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2536,7 +2536,7 @@ exports[`UtilityTable renders the margin utility documentation correctly 1`] = `
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2568,7 +2568,7 @@ exports[`UtilityTable renders the max-height utility documentation correctly 1`]
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2600,7 +2600,7 @@ exports[`UtilityTable renders the max-width utility documentation correctly 1`] 
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2632,7 +2632,7 @@ exports[`UtilityTable renders the min-height utility documentation correctly 1`]
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2664,7 +2664,7 @@ exports[`UtilityTable renders the min-width utility documentation correctly 1`] 
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2696,7 +2696,7 @@ exports[`UtilityTable renders the opacity utility documentation correctly 1`] = 
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2728,7 +2728,7 @@ exports[`UtilityTable renders the outline utility documentation correctly 1`] = 
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2760,7 +2760,7 @@ exports[`UtilityTable renders the overflow utility documentation correctly 1`] =
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2792,7 +2792,7 @@ exports[`UtilityTable renders the padding utility documentation correctly 1`] = 
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2824,7 +2824,7 @@ exports[`UtilityTable renders the pointer-events utility documentation correctly
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2867,7 +2867,7 @@ exports[`UtilityTable renders the position utility documentation correctly 1`] =
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2899,7 +2899,7 @@ exports[`UtilityTable renders the stroke utility documentation correctly 1`] = `
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2931,7 +2931,7 @@ exports[`UtilityTable renders the stroke-linecap utility documentation correctly
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2963,7 +2963,7 @@ exports[`UtilityTable renders the stroke-linejoin utility documentation correctl
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -2995,7 +2995,7 @@ exports[`UtilityTable renders the stroke-width utility documentation correctly 1
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3027,7 +3027,7 @@ exports[`UtilityTable renders the text-align utility documentation correctly 1`]
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3059,7 +3059,7 @@ exports[`UtilityTable renders the text-decoration utility documentation correctl
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3091,7 +3091,7 @@ exports[`UtilityTable renders the text-indent utility documentation correctly 1`
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3123,7 +3123,7 @@ exports[`UtilityTable renders the text-overflow utility documentation correctly 
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3155,7 +3155,7 @@ exports[`UtilityTable renders the text-shadow utility documentation correctly 1`
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3187,7 +3187,7 @@ exports[`UtilityTable renders the text-transform utility documentation correctly
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3219,7 +3219,7 @@ exports[`UtilityTable renders the top, right, bottom, left utility documentation
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3251,7 +3251,7 @@ exports[`UtilityTable renders the transform utility documentation correctly 1`] 
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3283,7 +3283,7 @@ exports[`UtilityTable renders the transition utility documentation correctly 1`]
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3351,7 +3351,7 @@ exports[`UtilityTable renders the user-select utility documentation correctly 1`
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3383,7 +3383,7 @@ exports[`UtilityTable renders the vertical-align utility documentation correctly
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3415,7 +3415,7 @@ exports[`UtilityTable renders the visibility utility documentation correctly 1`]
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3447,7 +3447,7 @@ exports[`UtilityTable renders the white-space utility documentation correctly 1`
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3479,7 +3479,7 @@ exports[`UtilityTable renders the width utility documentation correctly 1`] = `
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3511,7 +3511,7 @@ exports[`UtilityTable renders the will-change utility documentation correctly 1`
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"
@@ -3543,7 +3543,7 @@ exports[`UtilityTable renders the z-index utility documentation correctly 1`] = 
     class="bg-color gray-100 text-14 leading-32"
   >
     <tr
-      class="border border-t-solid border-b-solid border-thin border-$color"
+      class="border border-t-solid border-b-solid border-thin border-color gray-300"
     >
       <th
         class="gray-700 p-l-16 p-r-16 p-t-8 p-b-8"

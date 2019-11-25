@@ -1,12 +1,6 @@
 table: w-100% border-collapse m-t-32
-thead: bg-color gray-100 text-14 leading-32
+thead:
+  base: bg-color gray-100 text-14 leading-32
+  tr: border border-t-solid border-b-solid border-thin border-color gray-300
+  th: gray-700 p-l-16 p-r-16 p-t-8 p-b-8
 tbody: font-monospace text-14 leading-24 v-align-top
-tr:
-  base: border border-t-solid border-b-solid border-thin
-  head: border-$color
-  body: border-color gray-200
-  style: 'border-color: var(--gray-300)'
-th: gray-700 p-l-16 p-r-16 p-t-8 p-b-8
-td: p-t-8 p-b-8 p-l-16 p-r-16
-class_name: purple-600 w-280
-properties: blue-700
