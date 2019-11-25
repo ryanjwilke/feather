@@ -1,5 +1,275 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`UtilitiesShow renders the align-items utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    align items
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's align items.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the animation-delay utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    animation delay
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's animation delay.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the animation-direction utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    animation direction
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's animation direction.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the animation-duration utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    animation duration
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's animation duration.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the animation-fill-mode utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    animation fill mode
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's animation fill mode.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the animation-iteration-count utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    animation iteration count
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's animation iteration count.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the animation-name utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    animation name
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's animation name.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the animation-timing-function utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    animation timing function
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's animation timing function.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the appearance utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    appearance
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's appearance.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the backdrop-filter utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    backdrop filter
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's backdrop filter.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the background utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    background
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's background.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the background-attachment utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    background attachment
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's background attachment.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
 exports[`UtilitiesShow renders the background-color utility documentation correctly 1`] = `
 <div
   class="align-left"
@@ -23,6 +293,233 @@ exports[`UtilitiesShow renders the background-color utility documentation correc
 </div>
 `;
 
+exports[`UtilitiesShow renders the background-image utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    background image
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's background image.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the background-repeat utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    background repeat
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's background repeat.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the background-size utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    background size
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's background size.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the border-collapse utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    border collapse
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's border collapse.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the border-color utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    border color
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's border color.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the border-radius utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    border radius
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's border radius.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the border-spacing utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    border spacing
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's border spacing.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the border-style utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    border style
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's border style.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the border-width utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    border width
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's border width.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the box-shadow utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    box shadow
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's box shadow.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
 exports[`UtilitiesShow renders the color utility documentation correctly 1`] = `
 <div
   class="align-left"
@@ -43,5 +540,1134 @@ exports[`UtilitiesShow renders the color utility documentation correctly 1`] = `
     groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
     utility="[object Object]"
   />
+</div>
+`;
+
+exports[`UtilitiesShow renders the cursor utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    cursor
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's cursor.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the display utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    display
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's display.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the fill utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    fill
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's fill.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the filter utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    filter
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's filter.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the flex-basis utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    flex basis
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's flex basis.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the flex-direction utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    flex direction
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's flex direction.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the flex-grow utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    flex grow
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's flex grow.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the flex-shrink utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    flex shrink
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's flex shrink.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the flex-wrap utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    flex wrap
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's flex wrap.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the float utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    float
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's float.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the font-family utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    font family
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's font family.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the font-size utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    font size
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's font size.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the font-style utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    font style
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's font style.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the font-weight utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    font weight
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's font weight.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the grid-column-gap utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    grid column gap
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's grid column gap.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the grid-row-end utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    grid row end
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's grid row end.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the grid-row-gap utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    grid row gap
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's grid row gap.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the grid-row-start utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    grid row start
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's grid row start.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the grid-template-columns utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    grid template columns
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's grid template columns.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the grid-template-rows utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    grid template rows
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's grid template rows.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the height utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    height
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's height.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the justify-content utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    justify content
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's justify content.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the line-clamp utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    line clamp
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    An non-standard utility for truncating text which is currently available for WebKit only.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the line-height utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    line height
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's line height.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the list-style utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    list style
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's list style.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the margin utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    margin
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's margin.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the max-height utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    max height
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's max height.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the max-width utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    max width
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's max width.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the min-height utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    min height
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's min height.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the min-width utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    min width
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's min width.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the opacity utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    opacity
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's opacity.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the outline utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    outline
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's outline.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the overflow utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    overflow
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's overflow.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the padding utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    padding
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's padding.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the pointer-events utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    pointer events
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's pointer events.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the position utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    position
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's position.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the stroke utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    stroke
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's stroke.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the stroke-linecap utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    stroke linecap
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's stroke linecap.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the stroke-linejoin utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    stroke linejoin
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's stroke linejoin.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the stroke-width utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    stroke width
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's stroke width.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the text-align utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    text align
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's text align.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the text-decoration utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    text decoration
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's text decoration.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the text-indent utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    text indent
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's text indent.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the text-overflow utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    text overflow
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's text overflow.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the text-shadow utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    text shadow
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's text shadow.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the text-transform utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    text transform
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's text transform.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the top, right, bottom, left utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    top, right, bottom, left
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's top, right, bottom, left.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the transform utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    transform
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's transform.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the transition utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    transition
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's transition.
+  </h2>
+   
+  <utility-table-stub
+    groups="[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]"
+    utility="[object Object]"
+  />
+</div>
+`;
+
+exports[`UtilitiesShow renders the user-select utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    user select
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's user select.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the vertical-align utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    vertical align
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's vertical align.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the visibility utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    visibility
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's visibility.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the white-space utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    white space
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's white space.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the width utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    width
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's width.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the will-change utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    will change
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's will change.
+  </h2>
+   
+  <!---->
+</div>
+`;
+
+exports[`UtilitiesShow renders the z-index utility documentation correctly 1`] = `
+<div
+  class="align-left"
+>
+  <h1
+    class="m-b-8 capitalize gray-800 medium text-32"
+  >
+    z index
+  </h1>
+   
+  <h2
+    class="normal gray-500 text-16"
+  >
+    Utilities for controlling an element's z index.
+  </h2>
+   
+  <!---->
 </div>
 `;
