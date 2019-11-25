@@ -1,5 +1,5 @@
-import { shallowMount } from '@vue/test-utils'
 import groups from '@/data/utilities.yml'
+import { shallowMount } from '@vue/test-utils'
 import UtilitiesShow from '@/views/utilities/show/show.vue'
 
 describe('UtilitiesShow', () => {
