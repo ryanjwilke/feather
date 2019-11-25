@@ -21,8 +21,31 @@
       values: [linear, ease, ease-in, ease-out]
 
     - name: animation-fill-mode
+      prefix: animate-fill
+      values: [none, forwards, backwards]
+
     - name: animation-iteration-count
+      prefix: animate
+      values: infinite
+
     - name: transition
+      prefix: ease
+      values:
+        - name: 0ms
+          value: none
+        - name: 150ms
+          value: all 150ms ease
+        - name: 300ms
+          value: all 300ms ease
+        - name: 600ms
+          value: all 600ms ease
+        - name: out-150ms
+          value: all 150ms ease-out
+        - name: out-300ms
+          value: all 300ms ease-out
+        - name: out-600ms
+          value: all 600ms ease-out
+
     - name: will-change
 
 - name: appearance
