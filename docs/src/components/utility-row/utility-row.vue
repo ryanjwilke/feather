@@ -11,4 +11,4 @@
   </tr>
 </template>
 
-<script src="./utility-tr.js"></script>
+<script src="./utility-row.js"></script>

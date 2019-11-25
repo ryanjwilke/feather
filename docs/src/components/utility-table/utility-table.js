@@ -1,10 +1,10 @@
 import css from './utility-table.css.yml'
-import UtilityTr from '@/components/utility-tr/utility-tr.vue'
+import UtilityRow from '@/components/utility-row/utility-row.vue'
 
 export default {
   name: 'utility-table',
 
-  components: { UtilityTr },
+  components: { UtilityRow },
 
   props: {
     utility: {

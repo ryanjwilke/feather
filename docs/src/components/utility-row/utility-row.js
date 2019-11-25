@@ -1,7 +1,7 @@
-import css from './utility-tr.css.yml'
+import css from './utility-row.css.yml'
 
 export default {
-  name: 'utility-tr',
+  name: 'utility-row',
 
   props: {
     utility: {
@@ -9,7 +9,6 @@ export default {
       required: true,
     },
     cssValue: {
-      type: String,
       required: true,
     },
     variantName: {

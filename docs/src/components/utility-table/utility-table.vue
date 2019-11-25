@@ -8,9 +8,9 @@
     </thead>
     <tbody :class="css.tbody">
       <template v-for="(value, index) in utility.values">
-        <utility-tr :utility="utility" :css-value="value" :key="index" />
+        <utility-row :utility="utility" :css-value="value" :key="index" />
         <template v-for="(variant, vIndex) in utility.variants">
-          <utility-tr
+          <utility-row
             v-for="(vName, vKey) in variant"
             :key="variantKey(index, vIndex, vKey, value)"
             :utility="utility"
