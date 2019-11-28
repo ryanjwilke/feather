@@ -1418,7 +1418,7 @@
     "@types/istanbul-lib-coverage" "*"
     "@types/istanbul-lib-report" "*"
 
-"@types/jest@^24.0.18":
+"@types/jest@^24.0.19":
   version "24.0.23"
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-24.0.23.tgz#046f8e2ade026fe831623e361a36b6fb9a4463e4"
   integrity sha512-L7MBvwfNpe7yVPTXLn32df/EK+AMBFAFvZrRuArGs7npEWnlziUXK+5GMIUTI4NIuwok3XibsjXCs5HxviYXjg==
@@ -1628,15 +1628,15 @@
   dependencies:
     "@vue/cli-shared-utils" "^4.0.5"
 
-"@vue/cli-plugin-unit-jest@^4.0.5":
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-unit-jest/-/cli-plugin-unit-jest-4.0.5.tgz#9e34f6108b9d9db676d1189f46c20a629218d53d"
-  integrity sha512-UfBZO4AHy+eIJDST7yiU+Rl57gj7PNzRPyR6DvBHK9x8niz/nPDeJ8OQaMY0eLLyU041sCNUaOLuCCVdXrvzjg==
+"@vue/cli-plugin-unit-jest@^4.1.1":
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-unit-jest/-/cli-plugin-unit-jest-4.1.1.tgz#481f706e26afbac3787896cd95c7536e04f65dd6"
+  integrity sha512-JLTLdQ2IRUe3iIpHHpp9LHm4/8HiD0QQ9AG136J8exXbZ6TCaLdE5X2W6fZ19wV/eCaQfje3eRAOySN24MReqw==
   dependencies:
-    "@babel/core" "^7.6.4"
+    "@babel/core" "^7.7.4"
     "@babel/plugin-transform-modules-commonjs" "^7.6.0"
-    "@types/jest" "^24.0.18"
-    "@vue/cli-shared-utils" "^4.0.5"
+    "@types/jest" "^24.0.19"
+    "@vue/cli-shared-utils" "^4.1.1"
     babel-core "^7.0.0-bridge.0"
     babel-jest "^24.9.0"
     babel-plugin-transform-es2015-modules-commonjs "^6.26.2"
@@ -1645,8 +1645,8 @@
     jest-environment-jsdom-fifteen "^1.0.0"
     jest-serializer-vue "^2.0.2"
     jest-transform-stub "^2.0.0"
-    jest-watch-typeahead "^0.4.0"
-    ts-jest "^24.1.0"
+    jest-watch-typeahead "^0.4.2"
+    ts-jest "^24.2.0"
     vue-jest "^3.0.5"
 
 "@vue/cli-plugin-vuex@^4.0.5":
@@ -1717,10 +1717,10 @@
     webpack-dev-server "^3.8.2"
     webpack-merge "^4.2.2"
 
-"@vue/cli-shared-utils@^4.0.0", "@vue/cli-shared-utils@^4.0.5":
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-4.0.5.tgz#dd263fa3b3a75c11cdc64376d4c45470fba6b270"
-  integrity sha512-NlNZ4Dx5QcP5uO5fCOLgkN2tbhNan5EcptPvXawW/md18cIpMlKbph6L6lEfJj8vrSvTUf2i/FyoFSh1rV53hw==
+"@vue/cli-shared-utils@^4.0.0", "@vue/cli-shared-utils@^4.0.5", "@vue/cli-shared-utils@^4.1.1":
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-4.1.1.tgz#79e26b56fda185fda00e5787a8f4aac56757b123"
+  integrity sha512-nsxNW8Sy9y2yx/r9DqgZoYg/DoygvASIQl0XXG+imQUDWEXKmD6UZA6y5ANfStCljzZ/wd7WgWP+txmjy6exOw==
   dependencies:
     "@hapi/joi" "^15.0.1"
     chalk "^2.4.1"
@@ -1731,9 +1731,10 @@
     open "^6.3.0"
     ora "^3.4.0"
     request "^2.87.0"
-    request-promise-native "^1.0.7"
+    request-promise-native "^1.0.8"
     semver "^6.1.0"
     string.prototype.padstart "^3.0.0"
+    strip-ansi "^6.0.0"
 
 "@vue/component-compiler-utils@^3.0.0":
   version "3.0.2"
@@ -7878,7 +7879,7 @@ jest-validate@^24.9.0:
     leven "^3.1.0"
     pretty-format "^24.9.0"
 
-jest-watch-typeahead@^0.4.0:
+jest-watch-typeahead@^0.4.2:
   version "0.4.2"
   resolved "https://registry.yarnpkg.com/jest-watch-typeahead/-/jest-watch-typeahead-0.4.2.tgz#e5be959698a7fa2302229a5082c488c3c8780a4a"
   integrity sha512-f7VpLebTdaXs81rg/oj4Vg/ObZy2QtGzAmGLNsqUS5G5KtSN68tFcIsbvNODfNyQxU78g7D8x77o3bgfBTR+2Q==
@@ -11281,7 +11282,7 @@ request-promise-core@1.1.3:
   dependencies:
     lodash "^4.17.15"
 
-request-promise-native@^1.0.5, request-promise-native@^1.0.7:
+request-promise-native@^1.0.5, request-promise-native@^1.0.7, request-promise-native@^1.0.8:
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/request-promise-native/-/request-promise-native-1.0.8.tgz#a455b960b826e44e2bf8999af64dff2bfe58cb36"
   integrity sha512-dapwLGqkHtwL5AEbfenuzjTYg35Jd6KPytsC2/TLkVMz8rm+tNt72MGUWT1RP/aYawMpN6HqbNGBQaRcBtjQMQ==
@@ -12799,10 +12800,10 @@ tryer@^1.0.1:
   resolved "https://registry.yarnpkg.com/tryer/-/tryer-1.0.1.tgz#f2c85406800b9b0f74c9f7465b81eaad241252f8"
   integrity sha512-c3zayb8/kWWpycWYg87P71E1S1ZL6b6IJxfb5fvsUgsf0S2MVGaDhDXXjDMpdCpfWXqptc+4mXwmiy1ypXqRAA==
 
-ts-jest@^24.1.0:
-  version "24.1.0"
-  resolved "https://registry.yarnpkg.com/ts-jest/-/ts-jest-24.1.0.tgz#2eaa813271a2987b7e6c3fefbda196301c131734"
-  integrity sha512-HEGfrIEAZKfu1pkaxB9au17b1d9b56YZSqz5eCVE8mX68+5reOvlM93xGOzzCREIov9mdH7JBG+s0UyNAqr0tQ==
+ts-jest@^24.2.0:
+  version "24.2.0"
+  resolved "https://registry.yarnpkg.com/ts-jest/-/ts-jest-24.2.0.tgz#7abca28c2b4b0a1fdd715cd667d65d047ea4e768"
+  integrity sha512-Yc+HLyldlIC9iIK8xEN7tV960Or56N49MDP7hubCZUeI7EbIOTsas6rXCMB4kQjLACJ7eDOF4xWEO5qumpKsag==
   dependencies:
     bs-logger "0.x"
     buffer-from "1.x"
