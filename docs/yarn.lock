@@ -1655,7 +1655,7 @@
     webpack "^4.0.0"
     yorkie "^2.0.0"
 
-"@vue/cli-plugin-router@^4.0.5", "@vue/cli-plugin-router@^4.1.1":
+"@vue/cli-plugin-router@^4.1.1":
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/@vue/cli-plugin-router/-/cli-plugin-router-4.1.1.tgz#85c7f2d34f9217ad70b49a71dae6bf7067042759"
   integrity sha512-n2L2LPLnNcCeeVwJUrbRexi/coBnexIZorRTihinIkUzv3J+Qiw0KPsGjg1RF6UrieFlRhqcY3a5GloC+L0SBQ==
@@ -1752,7 +1752,7 @@
     webpack-dev-server "^3.9.0"
     webpack-merge "^4.2.2"
 
-"@vue/cli-shared-utils@^4.0.0", "@vue/cli-shared-utils@^4.0.5", "@vue/cli-shared-utils@^4.1.1":
+"@vue/cli-shared-utils@^4.0.0", "@vue/cli-shared-utils@^4.1.1":
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-4.1.1.tgz#79e26b56fda185fda00e5787a8f4aac56757b123"
   integrity sha512-nsxNW8Sy9y2yx/r9DqgZoYg/DoygvASIQl0XXG+imQUDWEXKmD6UZA6y5ANfStCljzZ/wd7WgWP+txmjy6exOw==
@@ -6586,10 +6586,10 @@ html-tags@^2.0.0:
   resolved "https://registry.yarnpkg.com/html-tags/-/html-tags-2.0.0.tgz#10b30a386085f43cede353cc8fa7cb0deeea668b"
   integrity sha1-ELMKOGCF9Dzt41PMj6fLDe7qZos=
 
-html-validate-vue@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/html-validate-vue/-/html-validate-vue-2.0.0.tgz#e43f67ad1886acfc57a658f424ea12c7e22fd7de"
-  integrity sha512-JjKB8PANPeBqbPO66uM+QI7NKIdwLOGvcGBY1RlThG5HvgQ14xaagq1qYD440ml/Vqu9fJjVIlW0GWf7kGicMw==
+html-validate-vue@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/html-validate-vue/-/html-validate-vue-2.0.1.tgz#0bcbdc8a5c260c07c5bef9f37ff3bd0da5cb9813"
+  integrity sha512-9ulGKogohgFuwS0VV+q7LOvmjb/AYYJYgGxDKJ3zeg+Kbu8DjxzMrXcbSg2a4zBO8Dw1xb8NhcJuZpifK0I8KQ==
 
 html-validate@^2.3.0:
   version "2.3.0"
