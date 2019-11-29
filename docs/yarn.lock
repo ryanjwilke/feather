@@ -1655,7 +1655,7 @@
     webpack "^4.0.0"
     yorkie "^2.0.0"
 
-"@vue/cli-plugin-router@^4.0.5", "@vue/cli-plugin-router@^4.1.1":
+"@vue/cli-plugin-router@^4.1.1":
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/@vue/cli-plugin-router/-/cli-plugin-router-4.1.1.tgz#85c7f2d34f9217ad70b49a71dae6bf7067042759"
   integrity sha512-n2L2LPLnNcCeeVwJUrbRexi/coBnexIZorRTihinIkUzv3J+Qiw0KPsGjg1RF6UrieFlRhqcY3a5GloC+L0SBQ==
@@ -1752,7 +1752,7 @@
     webpack-dev-server "^3.9.0"
     webpack-merge "^4.2.2"
 
-"@vue/cli-shared-utils@^4.0.0", "@vue/cli-shared-utils@^4.0.5", "@vue/cli-shared-utils@^4.1.1":
+"@vue/cli-shared-utils@^4.0.0", "@vue/cli-shared-utils@^4.1.1":
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-4.1.1.tgz#79e26b56fda185fda00e5787a8f4aac56757b123"
   integrity sha512-nsxNW8Sy9y2yx/r9DqgZoYg/DoygvASIQl0XXG+imQUDWEXKmD6UZA6y5ANfStCljzZ/wd7WgWP+txmjy6exOw==
@@ -1791,13 +1791,14 @@
   resolved "https://registry.yarnpkg.com/@vue/preload-webpack-plugin/-/preload-webpack-plugin-1.1.1.tgz#18723530d304f443021da2292d6ec9502826104a"
   integrity sha512-8VCoJeeH8tCkzhkpfOkt+abALQkS11OIHhte5MBzYaKMTqK0A3ZAKEUVAffsOklhEv7t0yrQt696Opnu9oAx+w==
 
-"@vue/test-utils@1.0.0-beta.29":
-  version "1.0.0-beta.29"
-  resolved "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-1.0.0-beta.29.tgz#c942cf25e891cf081b6a03332b4ae1ef430726f0"
-  integrity sha512-yX4sxEIHh4M9yAbLA/ikpEnGKMNBCnoX98xE1RwxfhQVcn0MaXNSj1Qmac+ZydTj6VBSEVukchBogXBTwc+9iA==
+"@vue/test-utils@1.0.0-beta.30":
+  version "1.0.0-beta.30"
+  resolved "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-1.0.0-beta.30.tgz#d5f26d1e2411fdb7fa7fdedb61b4b4ea4194c49d"
+  integrity sha512-Wyvcha9fNk8+kzTDwb3xWGjPkCPzHSYSwKP6MplrPTG/auhqoad7JqUEceZLc6u7AU4km2pPQ8/m9s0RgCZ0NA==
   dependencies:
     dom-event-types "^1.0.0"
-    lodash "^4.17.4"
+    lodash "^4.17.15"
+    pretty "^2.0.0"
 
 "@vue/web-component-wrapper@^1.2.0":
   version "1.2.0"
@@ -10729,7 +10730,7 @@ pretty-format@^24.9.0:
     ansi-styles "^3.2.0"
     react-is "^16.8.4"
 
-pretty@2.0.0:
+pretty@2.0.0, pretty@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/pretty/-/pretty-2.0.0.tgz#adbc7960b7bbfe289a557dc5f737619a220d06a5"
   integrity sha1-rbx5YLe7/iiaVX3F9zdhmiINBqU=
