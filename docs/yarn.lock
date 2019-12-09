@@ -1039,10 +1039,10 @@
     uuid "^3.3.3"
     yargs "^15.0.2"
 
-"@netlify/config@^0.1.1", "@netlify/config@^0.1.8":
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/@netlify/config/-/config-0.1.8.tgz#4b48db4858403302f37566e32eaa872387e82dec"
-  integrity sha512-UfzXPE3LsvVm0hAadyN8Tz6sYZLw8lf2Mek4gPOEP2ktDE2/ErOOHACii9mkFyNx+8lbMNNL9fenRw7jbxbHPQ==
+"@netlify/config@^0.1.7", "@netlify/config@^0.1.8":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@netlify/config/-/config-0.1.11.tgz#9886763be47e3e50900540ae2af2b4f2c0012780"
+  integrity sha512-rxwC9Axqd+Ovh/gjXxk/Dh2xAPPVuDIzqi7pAhsDiSikB9sbjOc2vMbSLtiALDAVbcENYYADqqNTvr17ANSRDA==
   dependencies:
     chalk "^3.0.0"
     configorama "^0.3.6"
@@ -9221,14 +9221,14 @@ netlify-cli-logo@^1.0.0:
   dependencies:
     chalk "^2.4.2"
 
-netlify-cli@^2.23.0:
-  version "2.23.0"
-  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-2.23.0.tgz#e203995df64c3ff848f11df1781d9df1e3c0da66"
-  integrity sha512-4Ca6fhCNWiEvucNvRRbUQjhAI6S2YsJ97bQZ0x2sQxS89HMP+SfDrBZR7c01tKd+qJtUfAwZMg4cT57spbjYlw==
+netlify-cli@^2.24.0:
+  version "2.24.0"
+  resolved "https://registry.yarnpkg.com/netlify-cli/-/netlify-cli-2.24.0.tgz#68350e2495fd5fe3a863e263799d176aa8ac087e"
+  integrity sha512-EP26ar1leyl3VB36Edu08v3G2jdhI2koOrjsz2Hp0pxOy5zUubxpBZPipyS65fBZYQx8LMUfmXIoyYhd7l3tJQ==
   dependencies:
     "@iarna/toml" "^2.2.3"
     "@netlify/build" "^0.1.7"
-    "@netlify/config" "^0.1.1"
+    "@netlify/config" "^0.1.7"
     "@netlify/zip-it-and-ship-it" "^0.3.1"
     "@oclif/command" "^1.5.18"
     "@oclif/config" "^1.13.2"
