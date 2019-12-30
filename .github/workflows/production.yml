@@ -38,6 +38,8 @@ jobs:
       - run: yarn install
         working-directory: docs
         if: steps.docs-modules.outputs.cache-hit != 'true'
+      - run: yarn audit
+        working-directory: docs
       - run: yarn build
         working-directory: docs
       - run: yarn prettier:check
