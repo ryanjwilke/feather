@@ -16,10 +16,18 @@ jobs:
           paths:
             - ~/.cache/yarn
       - run: yarn audit
+        working_directory: ~/docs
       - run: yarn build
+        working_directory: ~/docs
       - run: yarn prettier:check
+        working_directory: ~/docs
       - run: yarn test:lint
+        working_directory: ~/docs
       - run: yarn test:html
+        working_directory: ~/docs
       - run: yarn test:vue
+        working_directory: ~/docs
       - run: yarn test:unit:ci
+        working_directory: ~/docs
       - run: yarn test:unit:coverage
+        working_directory: ~/docs
