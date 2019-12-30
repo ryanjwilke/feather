@@ -9,14 +9,21 @@ jobs:
           name: Restore Dependency Cache
           keys:
             - yarn-packages-{{ checksum "yarn.lock" }}
-      - run: yarn install --frozen-lockfile
+      - run:
+          command: yarn install --frozen-lockfile
+          working_directory: docs
+
       - save_cache:
           name: Cache Dependencies
           key: yarn-packages-{{ checksum "yarn.lock" }}
           paths:
             - ~/.cache/yarn
-      - run: yarn audit --level low
-      - run: yarn build
+      - run:
+          command: yarn audit --level low
+          working_directory: docs
+      - run:
+          command: yarn build
+          working_directory: docs
       - run:
           command: yarn prettier:check
           working_directory: docs
