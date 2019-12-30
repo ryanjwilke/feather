@@ -19,7 +19,7 @@ jobs:
       - run: yarn build
       - run:
           command: yarn prettier:check
-          working_directory: ~/docs
+          working_directory: docs
       - run: yarn test:lint
       - run: yarn test:html
       - run: yarn test:vue
