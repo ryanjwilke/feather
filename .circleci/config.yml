@@ -18,6 +18,7 @@ jobs:
       - run: yarn audit --level low
       - run: yarn build
       - run: yarn prettier:check
+        working_directory: ~/docs
       - run: yarn test:lint
       - run: yarn test:html
       - run: yarn test:vue
