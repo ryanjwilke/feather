@@ -1,4 +1,4 @@
-# vue-cli-template
+# Feather Docs
 
 ## Template Status
 
