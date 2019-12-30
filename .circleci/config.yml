@@ -15,8 +15,7 @@ jobs:
           key: yarn-packages-{{ checksum "yarn.lock" }}
           paths:
             - ~/.cache/yarn
-      - run: yarn audit
-        working_directory: ~/docs
+      - run: yarn audit --level low
       - run: yarn build
         working_directory: ~/docs
       - run: yarn prettier:check
