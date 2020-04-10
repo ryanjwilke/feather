@@ -1,0 +1,8 @@
+.npmrc
+.github
+LICENSE
+README.md
+node_modules
+docs/.github
+docs/node_modules
+docs/tests
