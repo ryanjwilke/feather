@@ -61,7 +61,7 @@
     "netlify-cli": "^2.47.0",
     "prettier": "^2.0.4",
     "puppeteer": "^2.1.1",
-    "sass": "^1.26.3",
+    "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
     "vue-cli-plugin-html-validate": "^1.2.2",
     "vue-cli-plugin-jest-puppeteer": "^0.1.5",
