@@ -31,7 +31,7 @@
     "@babel/core": "^7.9.6",
     "@ryanwilke/feather-css": "file:..",
     "braces": "^3.0.2",
-    "core-js": "^3.6.5",
+    "core-js": "^3.7.0",
     "js-yaml-loader": "^1.2.2",
     "serialize-javascript": "^3.0.0",
     "vue": "^2.6.11",
