@@ -26,7 +26,7 @@
     "url": "https://github.com/ryanjwilke/feather-css/issues"
   },
   "devDependencies": {
-    "node-sass": "^4.9.3"
+    "node-sass": "^6.0.1"
   },
   "scripts": {
     "build": "yarn build:folders && yarn build:css && yarn build:sass",
