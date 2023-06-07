@@ -28,7 +28,7 @@
     "vue:start": "vue-cli-service serve"
   },
   "dependencies": {
-    "@babel/core": "^7.9.6",
+    "@babel/core": "^7.21.8",
     "@ryanwilke/feather-css": "file:..",
     "braces": "^3.0.2",
     "core-js": "^3.6.5",
