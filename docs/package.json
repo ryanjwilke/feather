@@ -30,7 +30,7 @@
   "dependencies": {
     "@babel/core": "^7.9.6",
     "@ryanwilke/feather-css": "file:..",
-    "braces": "^3.0.2",
+    "braces": "^3.0.3",
     "core-js": "^3.6.5",
     "js-yaml-loader": "^1.2.2",
     "serialize-javascript": "^3.0.0",
